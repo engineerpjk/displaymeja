@@ -57,17 +57,17 @@ static uint32_t display_meja_target = DISPLAY_MEJA_TARGET_ALL;
  * Fonts
  *----------------*/
 
-lv_font_t * font_inter_regular_12b;
+lv_font_t * font_inter_reg_12b;
+lv_font_t * font_inter_reg_9;
+lv_font_t * font_inter_reg_12a;
 lv_font_t * font_lato_bold_60;
 lv_font_t * font_lato_semibold_36;
 lv_font_t * font_lato_semibold_18;
 lv_font_t * font_lato_regular_36;
 lv_font_t * font_lato_bold_16;
-lv_font_t * font_inter_regular_9;
 lv_font_t * font_lato_bold_36;
 lv_font_t * font_inter_semi_bold_12;
 lv_font_t * font_inter_bold_8;
-lv_font_t * font_inter_regular_12a;
 lv_font_t * font_inter_regular_8;
 lv_font_t * font_inter_semi_bold_30;
 lv_font_t * font_inter_regular_30;
@@ -228,7 +228,7 @@ void display_meja_init_gen(const char * asset_path)
         if (!font_inter_reg_12b) {
             /* font_inter_reg_12b */
             /* create bin font 'font_inter_reg_12b' from file */
-            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_12a");
+            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_regular_12b.bin");
             font_inter_reg_12b = lv_binfont_create(buf);
 
         }
@@ -270,8 +270,8 @@ void display_meja_init_gen(const char * asset_path)
         if (!font_inter_reg_9) {
             /* font_inter_reg_9 */
             /* create bin font 'font_inter_reg_9' from file */
-            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_9");
-            font_inter_reg_9= lv_binfont_create(buf);
+            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_regular_9.bin");
+            font_inter_reg_9 = lv_binfont_create(buf);
 
         }
         if (!font_lato_bold_36) {
@@ -298,7 +298,7 @@ void display_meja_init_gen(const char * asset_path)
         if (!font_inter_reg_12a) {
             /* font_inter_reg_12a */
             /* create bin font 'font_inter_reg_12a' from file */
-            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_12b");
+            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_regular_12a.bin");
             font_inter_reg_12a = lv_binfont_create(buf);
 
         }
