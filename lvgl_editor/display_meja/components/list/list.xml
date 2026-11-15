@@ -1,0 +1,14 @@
+<!-- This file is OWNED_BY=USER -->
+<component>
+	<view
+		extends="image"
+		width="40"
+		height="40"
+		src="image_size_48_171640"
+		scrollable="false"
+		style_transform_scale_x="166"
+		style_transform_scale_y="166"
+		style_transform_pivot_x="20"
+		style_transform_pivot_y="20"
+	/>
+</component>

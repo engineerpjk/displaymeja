@@ -1,0 +1,242 @@
+<globals>
+	<api>
+		<!-- Add <enumdefs> here -->
+	</api>
+
+	<consts>
+		<!-- ────────────────── <lvgl-figma-flow begin="consts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<color name="const_baselib_accent_global" value="0x70609C" />
+		<color name="const_baselib_accent_text_global" value="0xFFFFFF" />
+		<int name="const_baselib_unit_sm_global" value="4" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="consts"/> ──────────────────── -->
+		<!-- Add <px>, <int>, <color> etc here -->
+	</consts>
+
+	<subjects>
+		<!-- Add <int>, <string>, or <float> subjects here -->
+	</subjects>
+
+	<images>
+		<!-- ────────────────── <lvgl-figma-flow begin="images"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<data name="image_logo_blush_b_final_1" src_path="images/logo_blush_b_final_1.png" color_format="rgb565a8" />
+		<data name="image_vec_1_105" src_path="images/vec_1_105.png" color_format="rgb565a8" />
+		<data name="image_vec_1_106" src_path="images/vec_1_106.png" color_format="rgb565a8" />
+		<data name="image_vec_28_203" src_path="images/vec_28_203.png" color_format="rgb565a8" />
+		<data name="image_vec_28_204" src_path="images/vec_28_204.png" color_format="rgb565a8" />
+		<data name="image_vec_28_205" src_path="images/vec_28_205.png" color_format="rgb565a8" />
+		<data name="image_line" src_path="images/line.png" color_format="rgb565a8" />
+		<data name="image_arrow_up_right_31877" src_path="images/arrow_up_right_31877.png" color_format="rgb565a8" />
+		<data name="image_check_29517" src_path="images/check_29517.png" color_format="rgb565a8" />
+		<data name="image_plus_30659" src_path="images/plus_30659.png" color_format="rgb565a8" />
+		<data name="image_size_48_171640" src_path="images/size_48_171640.png" color_format="rgb565a8" />
+		<data name="image_size_48_171655" src_path="images/size_48_171655.png" color_format="rgb565a8" />
+		<data name="image_home_171664" src_path="images/home_171664.png" color_format="rgb565a8" />
+		<data name="image_vec_30_574" src_path="images/vec_30_574.png" color_format="rgb565a8" />
+		<data name="image_vec_32_584" src_path="images/vec_32_584.png" color_format="rgb565a8" />
+		<data name="image_vec_32_586" src_path="images/vec_32_586.png" color_format="rgb565a8" />
+		<data name="image_vec_32_585" src_path="images/vec_32_585.png" color_format="rgb565a8" />
+		<data name="image_vec_32_631" src_path="images/vec_32_631.png" color_format="rgb565a8" />
+		<data name="image_vec_32_640" src_path="images/vec_32_640.png" color_format="rgb565a8" />
+		<data name="image_vec_32_646" src_path="images/vec_32_646.png" color_format="rgb565a8" />
+		<data name="image_vec_32_650" src_path="images/vec_32_650.png" color_format="rgb565a8" />
+		<data name="image_vec_32_654" src_path="images/vec_32_654.png" color_format="rgb565a8" />
+		<data name="image_vec_32_658" src_path="images/vec_32_658.png" color_format="rgb565a8" />
+		<data name="image_vec_32_659" src_path="images/vec_32_659.png" color_format="rgb565a8" />
+		<data name="image_vec_32_660" src_path="images/vec_32_660.png" color_format="rgb565a8" />
+		<data name="image_vec_29_547" src_path="images/vec_29_547.png" color_format="rgb565a8" />
+		<data name="image_vec_31_724" src_path="images/vec_31_724.png" color_format="rgb565a8" />
+		<data name="image_vec_31_727" src_path="images/vec_31_727.png" color_format="rgb565a8" />
+		<data name="image_vec_31_730" src_path="images/vec_31_730.png" color_format="rgb565a8" />
+		<data name="image_vec_31_733" src_path="images/vec_31_733.png" color_format="rgb565a8" />
+		<data name="image_vec_32_589" src_path="images/vec_32_589.png" color_format="rgb565a8" />
+		<data name="image_vec_32_590" src_path="images/vec_32_590.png" color_format="rgb565a8" />
+		<data name="image_vec_32_591" src_path="images/vec_32_591.png" color_format="rgb565a8" />
+		<data name="image_vec_32_596" src_path="images/vec_32_596.png" color_format="rgb565a8" />
+		<data name="image_vec_32_605" src_path="images/vec_32_605.png" color_format="rgb565a8" />
+		<data name="image_vec_32_611" src_path="images/vec_32_611.png" color_format="rgb565a8" />
+		<data name="image_vec_32_615" src_path="images/vec_32_615.png" color_format="rgb565a8" />
+		<data name="image_vec_32_619" src_path="images/vec_32_619.png" color_format="rgb565a8" />
+		<data name="image_vec_32_623" src_path="images/vec_32_623.png" color_format="rgb565a8" />
+		<data name="image_vec_32_624" src_path="images/vec_32_624.png" color_format="rgb565a8" />
+		<data name="image_vec_32_625" src_path="images/vec_32_625.png" color_format="rgb565a8" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="images"/> ──────────────────── -->
+		<!-- Add <file> or <data> tags here -->
+		<data name="img_weather_cerah" src_path="images/Cerah.png" color_format="argb8888" />
+		<data name="img_weather_berawan" src_path="images/Berawan.png" color_format="argb8888" />
+		<data name="img_weather_gerimis" src_path="images/Gerimis.png" color_format="argb8888" />
+		<data name="img_weather_deras" src_path="images/Deras.png" color_format="argb8888" />
+	</images>
+
+	<fonts>
+		<!-- ────────────────── <lvgl-figma-flow begin="fonts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<bin
+			name="font_inter_regular_12b"
+			size="12"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_lato_bold_60"
+			size="60"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Lato-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_lato_semibold_36"
+			size="36"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Lato-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_lato_semibold_18"
+			size="18"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Lato-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_lato_regular_36"
+			size="36"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Lato-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_lato_bold_16"
+			size="16"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Lato-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_inter_regular_9"
+			size="9"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_lato_bold_36"
+			size="36"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Lato-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_inter_semi_bold_12"
+			size="12"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_inter_bold_8"
+			size="8"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Bold.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_inter_regular_12a"
+			size="12"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_inter_regular_8"
+			size="8"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_inter_semi_bold_30"
+			size="30"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_inter_regular_30"
+			size="30"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_inter_bold_60"
+			size="60"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Bold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_inter_regular_16"
+			size="16"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_inter_italic_16"
+			size="16"
+			bpp="4"
+			as_file="true"
+			src_path="fonts/Inter-Italic.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+
+		<!-- ──────────────────── <lvgl-figma-flow end="fonts"/> ──────────────────── -->
+		<!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
+	</fonts>
+
+	<styles>
+		<!-- ────────────────── <lvgl-figma-flow begin="styles"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+		<style name="style_screen_base_global" border_width="0" radius="0" shadow_width="0" shadow_opa="0" />
+		<style name="style_list_16_global" width="16" height="16" />
+		<style name="style_list_20_global" width="20" height="20" />
+		<style name="style_list_24_global" width="24" height="24" />
+		<style name="style_list_32_global" width="32" height="32" />
+		<style name="style_list_40_global" width="40" height="40" />
+		<style name="style_list_48_global" width="48" height="48" />
+		<style name="style_lock_16_global" width="16" height="16" />
+		<style name="style_lock_20_global" width="20" height="20" />
+		<style name="style_lock_24_global" width="24" height="24" />
+		<style name="style_lock_32_global" width="32" height="32" />
+		<style name="style_lock_40_global" width="40" height="40" />
+		<style name="style_lock_48_global" width="48" height="48" />
+
+		<!-- ─────────────────── <lvgl-figma-flow end="styles"/> ──────────────────── -->
+		<!-- Add <style> tags here -->
+	</styles>
+</globals>

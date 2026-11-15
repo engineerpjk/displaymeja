@@ -1,0 +1,4103 @@
+{
+  "id": "31:881",
+  "name": "setup_wifi",
+  "pageName": "Page 1",
+  "node": {
+    "id": "31:881",
+    "name": "setup_wifi",
+    "type": "FRAME",
+    "visible": true,
+    "locked": false,
+    "width": 800,
+    "height": 480,
+    "x": -2190,
+    "y": 2797,
+    "rotation": 0,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "relativeTransform": [
+      [
+        1,
+        0,
+        -2190
+      ],
+      [
+        0,
+        1,
+        2797
+      ]
+    ],
+    "absoluteTransform": [
+      [
+        1,
+        0,
+        -2190
+      ],
+      [
+        0,
+        1,
+        2797
+      ]
+    ],
+    "absoluteBoundingBox": {
+      "x": -2190,
+      "y": 2797,
+      "width": 800.0621948242188,
+      "height": 480.10369873046875
+    },
+    "absoluteRenderBounds": {
+      "x": -2190,
+      "y": 2797,
+      "width": 800.062255859375,
+      "height": 480.103759765625
+    },
+    "targetAspectRatio": null,
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeJoin": "MITER",
+    "strokeCap": "NONE",
+    "strokeMiterLimit": 4,
+    "dashPattern": [],
+    "fillGeometry": [
+      {
+        "windingRule": "NONZERO",
+        "data": "M0 0 L800.062 0 L800.062 480.104 L0 480.104 L0 0 Z"
+      }
+    ],
+    "cornerRadius": 0,
+    "cornerSmoothing": 0,
+    "layoutMode": "NONE",
+    "paddingLeft": 0,
+    "paddingRight": 0,
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "counterAxisAlignContent": "AUTO",
+    "itemSpacing": 0,
+    "counterAxisSpacing": 0,
+    "layoutWrap": "NO_WRAP",
+    "primaryAxisSizingMode": "AUTO",
+    "counterAxisSizingMode": "FIXED",
+    "itemReverseZIndex": false,
+    "strokesIncludedInLayout": false,
+    "clipsContent": false,
+    "inferredAutoLayout": null,
+    "layoutGrow": 0,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "maskType": "ALPHA",
+    "effects": [],
+    "devStatus": null,
+    "children": [
+      {
+        "id": "31:882",
+        "name": "Background",
+        "type": "RECTANGLE",
+        "visible": true,
+        "locked": false,
+        "width": 800,
+        "height": 480,
+        "x": 800,
+        "y": 480,
+        "rotation": -179.99257358088053,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "relativeTransform": [
+          [
+            -1,
+            -0.00012961546599399298,
+            800
+          ],
+          [
+            0.00012961546599399298,
+            -1,
+            480
+          ]
+        ],
+        "absoluteTransform": [
+          [
+            -1,
+            -0.00012961546599399298,
+            -1389.937744140625
+          ],
+          [
+            0.00012961546599399298,
+            -1,
+            3277
+          ]
+        ],
+        "absoluteBoundingBox": {
+          "x": -2189.999959564302,
+          "y": 2797,
+          "width": 800.0622154236771,
+          "height": 480.1036923727952
+        },
+        "absoluteRenderBounds": {
+          "x": -2190,
+          "y": 2797,
+          "width": 800.062255859375,
+          "height": 480.103759765625
+        },
+        "targetAspectRatio": null,
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "r": 0.9258517026901245,
+            "g": 0.9176792502403259,
+            "b": 0.9176792502403259,
+            "a": 1,
+            "opacity": 1,
+            "blendMode": "NORMAL"
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "strokeJoin": "MITER",
+        "strokeCap": "NONE",
+        "strokeMiterLimit": 4,
+        "dashPattern": [],
+        "fillGeometry": [
+          {
+            "windingRule": "NONZERO",
+            "data": "M0 0 L800 0 L800 480 L0 480 L0 0 Z"
+          }
+        ],
+        "cornerRadius": 0,
+        "cornerSmoothing": 0,
+        "layoutGrow": 0,
+        "layoutAlign": "INHERIT",
+        "layoutPositioning": "AUTO",
+        "opacity": 1,
+        "blendMode": "PASS_THROUGH",
+        "isMask": false,
+        "maskType": "ALPHA",
+        "effects": []
+      },
+      {
+        "id": "31:883",
+        "name": "Navigasi",
+        "type": "FRAME",
+        "visible": true,
+        "locked": false,
+        "width": 62,
+        "height": 216,
+        "x": 723,
+        "y": 246,
+        "rotation": 4.075085685625131e-15,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "relativeTransform": [
+          [
+            1,
+            7.112366251504909e-17,
+            723
+          ],
+          [
+            -7.112366251504909e-17,
+            1,
+            246
+          ]
+        ],
+        "absoluteTransform": [
+          [
+            1,
+            7.112366251504909e-17,
+            -1467
+          ],
+          [
+            -7.112366251504909e-17,
+            1,
+            3043
+          ]
+        ],
+        "absoluteBoundingBox": {
+          "x": -1467,
+          "y": 3043,
+          "width": 62,
+          "height": 216
+        },
+        "absoluteRenderBounds": {
+          "x": -1471,
+          "y": 3043,
+          "width": 70,
+          "height": 224
+        },
+        "targetAspectRatio": null,
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1,
+            "opacity": 1,
+            "blendMode": "NORMAL"
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "strokeJoin": "MITER",
+        "strokeCap": "NONE",
+        "strokeMiterLimit": 4,
+        "dashPattern": [],
+        "fillGeometry": [
+          {
+            "windingRule": "NONZERO",
+            "data": "M0 4.99999 C0 2.23857 2.23858 0 5 0 L57 0 C59.7614 0 62 2.23858 62 5 L62 211 C62 213.761 59.7614 216 57 216 L5 216 C2.23858 216 0 213.761 0 211 L0 4.99999 Z"
+          }
+        ],
+        "cornerRadius": 5,
+        "cornerSmoothing": 0,
+        "layoutMode": "NONE",
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "primaryAxisAlignItems": "MIN",
+        "counterAxisAlignItems": "MIN",
+        "counterAxisAlignContent": "AUTO",
+        "itemSpacing": 0,
+        "counterAxisSpacing": 0,
+        "layoutWrap": "NO_WRAP",
+        "primaryAxisSizingMode": "AUTO",
+        "counterAxisSizingMode": "FIXED",
+        "itemReverseZIndex": false,
+        "strokesIncludedInLayout": false,
+        "clipsContent": false,
+        "inferredAutoLayout": {
+          "layoutMode": "VERTICAL",
+          "paddingLeft": 19,
+          "paddingRight": 18,
+          "paddingTop": 37,
+          "paddingBottom": 38,
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "MIN",
+          "primaryAxisSizingMode": "FIXED",
+          "counterAxisSizingMode": "AUTO",
+          "itemSpacing": 33
+        },
+        "layoutGrow": 0,
+        "layoutAlign": "INHERIT",
+        "layoutPositioning": "AUTO",
+        "opacity": 1,
+        "blendMode": "PASS_THROUGH",
+        "isMask": false,
+        "maskType": "ALPHA",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.25
+            },
+            "offset": {
+              "x": 0,
+              "y": 4
+            },
+            "radius": 4,
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "devStatus": null,
+        "children": [
+          {
+            "id": "31:884",
+            "name": "List",
+            "type": "INSTANCE",
+            "visible": true,
+            "locked": false,
+            "width": 25,
+            "height": 25,
+            "x": 19,
+            "y": 95,
+            "rotation": -4.075086443928459e-15,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                -7.112367574993889e-17,
+                19
+              ],
+              [
+                7.112367574993889e-17,
+                1,
+                95
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                -1.3234889800848443e-23,
+                -1448
+              ],
+              [
+                1.3234889800848443e-23,
+                1,
+                3138
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -1448,
+              "y": 3138,
+              "width": 25,
+              "height": 25
+            },
+            "absoluteRenderBounds": {
+              "x": -1448,
+              "y": 3138,
+              "width": 25,
+              "height": 25
+            },
+            "targetAspectRatio": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeJoin": "MITER",
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "fillGeometry": [
+              {
+                "windingRule": "NONZERO",
+                "data": "M0 0 L25 0 L25 25 L0 25 L0 0 Z"
+              }
+            ],
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "layoutMode": "NONE",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "counterAxisAlignContent": "AUTO",
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "layoutWrap": "NO_WRAP",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "itemReverseZIndex": false,
+            "strokesIncludedInLayout": false,
+            "clipsContent": true,
+            "inferredAutoLayout": {
+              "layoutMode": "HORIZONTAL",
+              "paddingLeft": 3.125,
+              "paddingRight": 3.125,
+              "paddingTop": 6.25,
+              "paddingBottom": 6.25,
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "FIXED",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 0.6800000071525574,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "variantProperties": {
+              "Size": "48"
+            },
+            "mainComponentId": "17:1634",
+            "mainComponentName": "Size=48",
+            "componentProperties": {
+              "Size": {
+                "type": "VARIANT",
+                "value": "48"
+              }
+            },
+            "isExposedInstance": false,
+            "overrides": [
+              {
+                "id": "31:884",
+                "overriddenFields": [
+                  "effects",
+                  "height",
+                  "opacity",
+                  "width"
+                ]
+              },
+              {
+                "id": "I31:884;7758:11816",
+                "overriddenFields": [
+                  "effects"
+                ]
+              }
+            ],
+            "devStatus": null,
+            "children": [
+              {
+                "id": "I31:884;7758:11816",
+                "name": "Icon",
+                "type": "VECTOR",
+                "visible": true,
+                "locked": false,
+                "width": 19,
+                "height": 13,
+                "x": 3,
+                "y": 6,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    3
+                  ],
+                  [
+                    0,
+                    1,
+                    6
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    -1.3234889800848443e-23,
+                    -1444.875
+                  ],
+                  [
+                    1.3234889800848443e-23,
+                    1,
+                    3144.25
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1444.875,
+                  "y": 3144.25,
+                  "width": 18.75,
+                  "height": 12.5
+                },
+                "absoluteRenderBounds": {
+                  "x": -1446.875,
+                  "y": 3142.25,
+                  "width": 22.75,
+                  "height": 16.5
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "SCALE",
+                  "vertical": "SCALE"
+                },
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.11764705926179886,
+                    "g": 0.11764705926179886,
+                    "b": 0.11764705926179886,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "type": "VARIABLE_ALIAS",
+                        "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/4245:248"
+                      }
+                    }
+                  }
+                ],
+                "strokeWeight": 4,
+                "strokeAlign": "CENTER",
+                "strokeJoin": "ROUND",
+                "strokeCap": "ROUND",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "strokeGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M5.20833 -2 C4.10376 -2 3.20833 -1.10457 3.20833 0 C3.20833 1.10457 4.10376 2 5.20833 2 L5.20833 0 L5.20833 -2 Z M18.75 2 C19.8546 2 20.75 1.10457 20.75 0 C20.75 -1.10457 19.8546 -2 18.75 -2 L18.75 0 L18.75 2 Z M5.20833 4.25 C4.10376 4.25 3.20833 5.14543 3.20833 6.25 C3.20833 7.35457 4.10376 8.25 5.20833 8.25 L5.20833 6.25 L5.20833 4.25 Z M18.75 8.25 C19.8546 8.25 20.75 7.35457 20.75 6.25 C20.75 5.14543 19.8546 4.25 18.75 4.25 L18.75 6.25 L18.75 8.25 Z M5.20833 10.5 C4.10376 10.5 3.20833 11.3954 3.20833 12.5 C3.20833 13.6046 4.10376 14.5 5.20833 14.5 L5.20833 12.5 L5.20833 10.5 Z M18.75 14.5 C19.8546 14.5 20.75 13.6046 20.75 12.5 C20.75 11.3954 19.8546 10.5 18.75 10.5 L18.75 12.5 L18.75 14.5 Z M0 -2 C-1.10457 -2 -2 -1.10457 -2 0 C-2 1.10457 -1.10457 2 0 2 L0 0 L0 -2 Z M0.0104167 2 C1.11499 2 2.01042 1.10457 2.01042 0 C2.01042 -1.10457 1.11499 -2 0.0104167 -2 L0.0104167 0 L0.0104167 2 Z M0 4.25 C-1.10457 4.25 -2 5.14543 -2 6.25 C-2 7.35457 -1.10457 8.25 0 8.25 L0 6.25 L0 4.25 Z M0.0104167 8.25 C1.11499 8.25 2.01042 7.35457 2.01042 6.25 C2.01042 5.14543 1.11499 4.25 0.0104167 4.25 L0.0104167 6.25 L0.0104167 8.25 Z M0 10.5 C-1.10457 10.5 -2 11.3954 -2 12.5 C-2 13.6046 -1.10457 14.5 0 14.5 L0 12.5 L0 10.5 Z M0.0104167 14.5 C1.11499 14.5 2.01042 13.6046 2.01042 12.5 C2.01042 11.3954 1.11499 10.5 0.0104167 10.5 L0.0104167 12.5 L0.0104167 14.5 Z M5.20833 0 L5.20833 2 L18.75 2 L18.75 0 L18.75 -2 L5.20833 -2 L5.20833 0 Z M5.20833 6.25 L5.20833 8.25 L18.75 8.25 L18.75 6.25 L18.75 4.25 L5.20833 4.25 L5.20833 6.25 Z M5.20833 12.5 L5.20833 14.5 L18.75 14.5 L18.75 12.5 L18.75 10.5 L5.20833 10.5 L5.20833 12.5 Z M0 0 L0 2 L0.0104167 2 L0.0104167 0 L0.0104167 -2 L0 -2 L0 0 Z M0 6.25 L0 8.25 L0.0104167 8.25 L0.0104167 6.25 L0.0104167 4.25 L0 4.25 L0 6.25 Z M0 12.5 L0 14.5 L0.0104167 14.5 L0.0104167 12.5 L0.0104167 10.5 L0 10.5 L0 12.5 Z"
+                  }
+                ],
+                "cornerRadius": 0,
+                "cornerSmoothing": 0,
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "vectorPaths": [
+                  {
+                    "windingRule": "NONE",
+                    "data": "M 5.208333333333334 0 L 18.75 0 M 5.208333333333334 6.25 L 18.75 6.25 M 5.208333333333334 12.5 L 18.75 12.5 M 0 0 L 0.010416656732559204 0 M 0 6.25 L 0.010416656732559204 6.25 M 0 12.5 L 0.010416656732559204 12.5"
+                  }
+                ],
+                "vectorNetwork": {
+                  "vertices": [
+                    {
+                      "x": 5.208333333333334,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 5.208333333333334,
+                      "y": 6.25,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 6.25,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 5.208333333333334,
+                      "y": 12.5,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 12.5,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0.010416656732559204,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 6.25,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0.010416656732559204,
+                      "y": 6.25,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 12.5,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0.010416656732559204,
+                      "y": 12.5,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    }
+                  ],
+                  "segments": [
+                    {
+                      "start": 0,
+                      "end": 1,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 2,
+                      "end": 3,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 4,
+                      "end": 5,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 6,
+                      "end": 7,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 8,
+                      "end": 9,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 10,
+                      "end": 11,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "regions": []
+                },
+                "handleMirroring": "NONE",
+                "boundVariables": {
+                  "strokes": [
+                    {
+                      "type": "VARIABLE_ALIAS",
+                      "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/4245:248"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "31:885",
+            "name": "Home",
+            "type": "INSTANCE",
+            "visible": true,
+            "locked": false,
+            "width": 25,
+            "height": 25,
+            "x": 19,
+            "y": 37,
+            "rotation": -4.075086443928459e-15,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                -7.112367574993889e-17,
+                19
+              ],
+              [
+                7.112367574993889e-17,
+                1,
+                37
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                -1.3234889800848443e-23,
+                -1448
+              ],
+              [
+                1.3234889800848443e-23,
+                1,
+                3080
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -1448,
+              "y": 3080,
+              "width": 25,
+              "height": 25
+            },
+            "absoluteRenderBounds": {
+              "x": -1448,
+              "y": 3080,
+              "width": 25,
+              "height": 25
+            },
+            "targetAspectRatio": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeJoin": "MITER",
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "fillGeometry": [
+              {
+                "windingRule": "NONZERO",
+                "data": "M0 0 L25 0 L25 25 L0 25 L0 0 Z"
+              }
+            ],
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "layoutMode": "NONE",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "counterAxisAlignContent": "AUTO",
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "layoutWrap": "NO_WRAP",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "itemReverseZIndex": false,
+            "strokesIncludedInLayout": false,
+            "clipsContent": true,
+            "inferredAutoLayout": {
+              "layoutMode": "HORIZONTAL",
+              "paddingLeft": 3.125000238418579,
+              "paddingRight": 3.124999761581421,
+              "paddingTop": 2.0833334922790527,
+              "paddingBottom": 2.083334445953369,
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "FIXED",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 0.6800000071525574,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "variantProperties": null,
+            "mainComponentId": "17:1663",
+            "mainComponentName": "Home",
+            "componentProperties": {},
+            "isExposedInstance": false,
+            "overrides": [
+              {
+                "id": "31:885",
+                "overriddenFields": [
+                  "height",
+                  "opacity",
+                  "width"
+                ]
+              }
+            ],
+            "devStatus": null,
+            "children": [
+              {
+                "id": "I31:885;7758:11737",
+                "name": "Icon",
+                "type": "VECTOR",
+                "visible": true,
+                "locked": false,
+                "width": 19,
+                "height": 21,
+                "x": 3,
+                "y": 2,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    3
+                  ],
+                  [
+                    0,
+                    1,
+                    2
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    -1.3234889800848443e-23,
+                    -1444.875
+                  ],
+                  [
+                    1.3234889800848443e-23,
+                    1,
+                    3082.083251953125
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1444.875,
+                  "y": 3082.083251953125,
+                  "width": 18.75,
+                  "height": 20.833332061767578
+                },
+                "absoluteRenderBounds": {
+                  "x": -1446.625,
+                  "y": 3080.333251953125,
+                  "width": 22.25,
+                  "height": 24.333251953125
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "SCALE",
+                  "vertical": "SCALE"
+                },
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.11764705926179886,
+                    "g": 0.11764705926179886,
+                    "b": 0.11764705926179886,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "type": "VARIABLE_ALIAS",
+                        "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/5613:412"
+                      }
+                    }
+                  }
+                ],
+                "strokeWeight": 3.5,
+                "strokeAlign": "CENTER",
+                "strokeJoin": "ROUND",
+                "strokeCap": "ROUND",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M0 7.29167 L9.375 0 L18.75 7.29167 L18.75 18.75 C18.75 19.3025 18.5305 19.8324 18.1398 20.2231 C17.7491 20.6138 17.2192 20.8333 16.6667 20.8333 L2.08333 20.8333 C1.5308 20.8333 1.00089 20.6138 0.610194 20.2231 C0.219493 19.8324 4.62593e-16 19.3025 0 18.75 L0 7.29167 Z"
+                  },
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M6.25 20.8333 L6.25 10.4167 L12.5 10.4167 L12.5 20.8333"
+                  }
+                ],
+                "strokeGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M0 7.29167 L-1.0744 5.9103 C-1.50067 6.24185 -1.75 6.75163 -1.75 7.29167 L0 7.29167 Z M9.375 0 L10.4494 -1.38137 C9.81745 -1.87288 8.93255 -1.87288 8.3006 -1.38137 L9.375 0 Z M18.75 7.29167 L20.5 7.29167 C20.5 6.75163 20.2507 6.24185 19.8244 5.9103 L18.75 7.29167 Z M0 18.75 L-1.75 18.75 L0 18.75 Z M4.5 20.8333 C4.5 21.7998 5.2835 22.5833 6.25 22.5833 C7.2165 22.5833 8 21.7998 8 20.8333 L6.25 20.8333 L4.5 20.8333 Z M6.25 10.4167 L6.25 8.66667 C5.2835 8.66667 4.5 9.45017 4.5 10.4167 L6.25 10.4167 Z M12.5 10.4167 L14.25 10.4167 C14.25 9.45017 13.4665 8.66667 12.5 8.66667 L12.5 10.4167 Z M10.75 20.8333 C10.75 21.7998 11.5335 22.5833 12.5 22.5833 C13.4665 22.5833 14.25 21.7998 14.25 20.8333 L12.5 20.8333 L10.75 20.8333 Z M0 7.29167 L1.0744 8.67303 L10.4494 1.38137 L9.375 0 L8.3006 -1.38137 L-1.0744 5.9103 L0 7.29167 Z M9.375 0 L8.3006 1.38137 L17.6756 8.67303 L18.75 7.29167 L19.8244 5.9103 L10.4494 -1.38137 L9.375 0 Z M18.75 7.29167 L17 7.29167 L17 18.75 L18.75 18.75 L20.5 18.75 L20.5 7.29167 L18.75 7.29167 Z M18.75 18.75 L17 18.75 C17 18.8384 16.9649 18.9232 16.9024 18.9857 L18.1398 20.2231 L19.3772 21.4606 C20.0961 20.7417 20.5 19.7667 20.5 18.75 L18.75 18.75 Z M18.1398 20.2231 L16.9024 18.9857 C16.8399 19.0482 16.7551 19.0833 16.6667 19.0833 L16.6667 20.8333 L16.6667 22.5833 C17.6833 22.5833 18.6584 22.1795 19.3772 21.4606 L18.1398 20.2231 Z M16.6667 20.8333 L16.6667 19.0833 L2.08333 19.0833 L2.08333 20.8333 L2.08333 22.5833 L16.6667 22.5833 L16.6667 20.8333 Z M2.08333 20.8333 L2.08333 19.0833 C1.99493 19.0833 1.91014 19.0482 1.84763 18.9857 L0.610194 20.2231 L-0.627243 21.4606 C0.0916467 22.1795 1.06667 22.5833 2.08333 22.5833 L2.08333 20.8333 Z M0.610194 20.2231 L1.84763 18.9857 C1.78512 18.9232 1.75 18.8384 1.75 18.75 L0 18.75 L-1.75 18.75 C-1.75 19.7667 -1.34613 20.7417 -0.627243 21.4606 L0.610194 20.2231 Z M0 18.75 L1.75 18.75 L1.75 7.29167 L0 7.29167 L-1.75 7.29167 L-1.75 18.75 L0 18.75 Z M6.25 20.8333 L8 20.8333 L8 10.4167 L6.25 10.4167 L4.5 10.4167 L4.5 20.8333 L6.25 20.8333 Z M6.25 10.4167 L6.25 12.1667 L12.5 12.1667 L12.5 10.4167 L12.5 8.66667 L6.25 8.66667 L6.25 10.4167 Z M12.5 10.4167 L10.75 10.4167 L10.75 20.8333 L12.5 20.8333 L14.25 20.8333 L14.25 10.4167 L12.5 10.4167 Z"
+                  }
+                ],
+                "cornerRadius": 0,
+                "cornerSmoothing": 0,
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "vectorPaths": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M 0 7.291666102409366 L 9.375 0 L 18.75 7.291666102409366 L 18.75 18.74999957084654 C 18.75 19.302533907462745 18.530505374073982 19.832437106033783 18.13980460166931 20.22313786949602 C 17.74910382926464 20.61383863295826 17.219200618565083 20.833332061767578 16.666666269302368 20.833332061767578 L 2.083333283662796 20.833332061767578 C 1.5307989344000816 20.833332061767578 1.0008948668837547 20.61383863295826 0.610194094479084 20.22313786949602 C 0.2194933220744133 19.832437106033783 4.625929158980737e-16 19.302533907462745 0 18.74999957084654 L 0 7.291666102409366 Z"
+                  },
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M 6.25 20.833332061767578 L 6.25 10.416666030883789 L 12.5 10.416666030883789 L 12.5 20.833332061767578"
+                  }
+                ],
+                "vectorNetwork": {
+                  "vertices": [
+                    {
+                      "x": 0,
+                      "y": 7.291666102409366,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 9.375,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 7.291666102409366,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 18.74999957084654,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.13980460166931,
+                      "y": 20.22313786949602,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 16.666666269302368,
+                      "y": 20.833332061767578,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 2.083333283662796,
+                      "y": 20.833332061767578,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0.610194094479084,
+                      "y": 20.22313786949602,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 18.74999957084654,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 6.25,
+                      "y": 20.833332061767578,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 6.25,
+                      "y": 10.416666030883789,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 12.5,
+                      "y": 10.416666030883789,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 12.5,
+                      "y": 20.833332061767578,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    }
+                  ],
+                  "segments": [
+                    {
+                      "start": 0,
+                      "end": 1,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 1,
+                      "end": 2,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 2,
+                      "end": 3,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 3,
+                      "end": 4,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0.5525343366162062
+                      },
+                      "tangentEnd": {
+                        "x": 0.3907007724046707,
+                        "y": -0.39070076346223936
+                      }
+                    },
+                    {
+                      "start": 4,
+                      "end": 5,
+                      "tangentStart": {
+                        "x": -0.3907007724046707,
+                        "y": 0.39070076346223936
+                      },
+                      "tangentEnd": {
+                        "x": 0.5525343492627144,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 5,
+                      "end": 6,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 6,
+                      "end": 7,
+                      "tangentStart": {
+                        "x": -0.5525343492627144,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0.3907007724046707,
+                        "y": 0.39070076346223936
+                      }
+                    },
+                    {
+                      "start": 7,
+                      "end": 8,
+                      "tangentStart": {
+                        "x": -0.3907007724046707,
+                        "y": -0.39070076346223936
+                      },
+                      "tangentEnd": {
+                        "x": 4.625929158980737e-16,
+                        "y": 0.5525343366162062
+                      }
+                    },
+                    {
+                      "start": 8,
+                      "end": 0,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 9,
+                      "end": 10,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 10,
+                      "end": 11,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 11,
+                      "end": 12,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "regions": [
+                    {
+                      "windingRule": "NONZERO",
+                      "loops": [
+                        [
+                          0,
+                          1,
+                          2,
+                          3,
+                          4,
+                          5,
+                          6,
+                          7,
+                          8
+                        ]
+                      ],
+                      "fillStyleId": "",
+                      "fills": []
+                    },
+                    {
+                      "windingRule": "NONZERO",
+                      "loops": [
+                        [
+                          9,
+                          10,
+                          11
+                        ]
+                      ],
+                      "fillStyleId": "",
+                      "fills": []
+                    }
+                  ]
+                },
+                "handleMirroring": "NONE",
+                "boundVariables": {
+                  "strokes": [
+                    {
+                      "type": "VARIABLE_ALIAS",
+                      "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/5613:412"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "31:886",
+            "name": "Lock",
+            "type": "INSTANCE",
+            "visible": true,
+            "locked": false,
+            "width": 25,
+            "height": 25,
+            "x": 19,
+            "y": 153,
+            "rotation": -4.075086443928459e-15,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                -7.112367574993889e-17,
+                19
+              ],
+              [
+                7.112367574993889e-17,
+                1,
+                153
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                -1.3234889800848443e-23,
+                -1448
+              ],
+              [
+                1.3234889800848443e-23,
+                1,
+                3196
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -1448,
+              "y": 3196,
+              "width": 25,
+              "height": 25
+            },
+            "absoluteRenderBounds": {
+              "x": -1448,
+              "y": 3196,
+              "width": 25,
+              "height": 25
+            },
+            "targetAspectRatio": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeJoin": "MITER",
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "fillGeometry": [
+              {
+                "windingRule": "NONZERO",
+                "data": "M0 0 L25 0 L25 25 L0 25 L0 0 Z"
+              }
+            ],
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "layoutMode": "NONE",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "counterAxisAlignContent": "AUTO",
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "layoutWrap": "NO_WRAP",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "itemReverseZIndex": false,
+            "strokesIncludedInLayout": false,
+            "clipsContent": true,
+            "inferredAutoLayout": {
+              "layoutMode": "HORIZONTAL",
+              "paddingLeft": 3.125,
+              "paddingRight": 3.125,
+              "paddingTop": 2.0833332538604736,
+              "paddingBottom": 2.0833327770233154,
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "FIXED",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 0.6800000071525574,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "variantProperties": {
+              "Size": "48"
+            },
+            "mainComponentId": "17:1649",
+            "mainComponentName": "Size=48",
+            "componentProperties": {
+              "Size": {
+                "type": "VARIANT",
+                "value": "48"
+              }
+            },
+            "isExposedInstance": false,
+            "overrides": [
+              {
+                "id": "31:886",
+                "overriddenFields": [
+                  "height",
+                  "opacity",
+                  "width"
+                ]
+              },
+              {
+                "id": "I31:886;7758:11828",
+                "overriddenFields": [
+                  "effects"
+                ]
+              }
+            ],
+            "devStatus": null,
+            "children": [
+              {
+                "id": "I31:886;7758:11828",
+                "name": "Icon",
+                "type": "VECTOR",
+                "visible": true,
+                "locked": false,
+                "width": 19,
+                "height": 21,
+                "x": 3,
+                "y": 2,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    3
+                  ],
+                  [
+                    0,
+                    1,
+                    2
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    -1.3234889800848443e-23,
+                    -1444.875
+                  ],
+                  [
+                    1.3234889800848443e-23,
+                    1,
+                    3198.083251953125
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1444.875,
+                  "y": 3198.083251953125,
+                  "width": 18.75,
+                  "height": 20.83333396911621
+                },
+                "absoluteRenderBounds": {
+                  "x": -1446.875,
+                  "y": 3196.083251953125,
+                  "width": 22.75,
+                  "height": 24.833251953125
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "SCALE",
+                  "vertical": "SCALE"
+                },
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.11764705926179886,
+                    "g": 0.11764705926179886,
+                    "b": 0.11764705926179886,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "type": "VARIABLE_ALIAS",
+                        "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/4245:248"
+                      }
+                    }
+                  }
+                ],
+                "strokeWeight": 4,
+                "strokeAlign": "CENTER",
+                "strokeJoin": "ROUND",
+                "strokeCap": "ROUND",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M16.6667 9.375 L2.08333 9.375 C0.93274 9.375 0 10.3077 0 11.4583 L0 18.75 C0 19.9006 0.93274 20.8333 2.08333 20.8333 L16.6667 20.8333 C17.8173 20.8333 18.75 19.9006 18.75 18.75 L18.75 11.4583 C18.75 10.3077 17.8173 9.375 16.6667 9.375 Z"
+                  },
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M4.16667 9.375 L4.16667 5.20833 C4.16667 3.827 4.7154 2.50224 5.69215 1.52549 C6.6689 0.548734 7.99366 9.25186e-16 9.375 0 C10.7563 0 12.0811 0.548734 13.0578 1.52549 C14.0346 2.50224 14.5833 3.827 14.5833 5.20833 L14.5833 9.375"
+                  }
+                ],
+                "strokeGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M2.16667 9.375 C2.16667 10.4796 3.0621 11.375 4.16667 11.375 C5.27124 11.375 6.16667 10.4796 6.16667 9.375 L4.16667 9.375 L2.16667 9.375 Z M4.16667 5.20833 L2.16667 5.20833 L4.16667 5.20833 Z M9.375 0 L9.375 -2 L9.375 0 Z M12.5833 9.375 C12.5833 10.4796 13.4788 11.375 14.5833 11.375 C15.6879 11.375 16.5833 10.4796 16.5833 9.375 L14.5833 9.375 L12.5833 9.375 Z M2.08333 9.375 L2.08333 11.375 L16.6667 11.375 L16.6667 9.375 L16.6667 7.375 L2.08333 7.375 L2.08333 9.375 Z M16.6667 9.375 L16.6667 11.375 C16.7127 11.375 16.75 11.4123 16.75 11.4583 L18.75 11.4583 L20.75 11.4583 C20.75 9.20317 18.9218 7.375 16.6667 7.375 L16.6667 9.375 Z M18.75 11.4583 L16.75 11.4583 L16.75 18.75 L18.75 18.75 L20.75 18.75 L20.75 11.4583 L18.75 11.4583 Z M18.75 18.75 L16.75 18.75 C16.75 18.796 16.7127 18.8333 16.6667 18.8333 L16.6667 20.8333 L16.6667 22.8333 C18.9218 22.8333 20.75 21.0052 20.75 18.75 L18.75 18.75 Z M16.6667 20.8333 L16.6667 18.8333 L2.08333 18.8333 L2.08333 20.8333 L2.08333 22.8333 L16.6667 22.8333 L16.6667 20.8333 Z M2.08333 20.8333 L2.08333 18.8333 C2.03731 18.8333 2 18.796 2 18.75 L0 18.75 L-2 18.75 C-2 21.0052 -0.17183 22.8333 2.08333 22.8333 L2.08333 20.8333 Z M0 18.75 L2 18.75 L2 11.4583 L0 11.4583 L-2 11.4583 L-2 18.75 L0 18.75 Z M0 11.4583 L2 11.4583 C2 11.4123 2.03731 11.375 2.08333 11.375 L2.08333 9.375 L2.08333 7.375 C-0.17183 7.375 -2 9.20317 -2 11.4583 L0 11.4583 Z M4.16667 9.375 L6.16667 9.375 L6.16667 5.20833 L4.16667 5.20833 L2.16667 5.20833 L2.16667 9.375 L4.16667 9.375 Z M4.16667 5.20833 L6.16667 5.20833 C6.16667 4.35743 6.50469 3.54138 7.10637 2.9397 L5.69215 1.52549 L4.27794 0.111272 C2.92611 1.4631 2.16667 3.29656 2.16667 5.20833 L4.16667 5.20833 Z M5.69215 1.52549 L7.10637 2.9397 C7.70805 2.33802 8.5241 2 9.375 2 L9.375 0 L9.375 -2 C7.46323 -2 5.62976 -1.24055 4.27794 0.111272 L5.69215 1.52549 Z M9.375 0 L9.375 2 C10.2259 2 11.042 2.33802 11.6436 2.9397 L13.0578 1.52549 L14.4721 0.111272 C13.1202 -1.24055 11.2868 -2 9.375 -2 L9.375 0 Z M13.0578 1.52549 L11.6436 2.9397 C12.2453 3.54138 12.5833 4.35743 12.5833 5.20833 L14.5833 5.20833 L16.5833 5.20833 C16.5833 3.29656 15.8239 1.4631 14.4721 0.111272 L13.0578 1.52549 Z M14.5833 5.20833 L12.5833 5.20833 L12.5833 9.375 L14.5833 9.375 L16.5833 9.375 L16.5833 5.20833 L14.5833 5.20833 Z"
+                  }
+                ],
+                "cornerRadius": 0,
+                "cornerSmoothing": 0,
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "vectorPaths": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M 16.666666666666668 9.375000286102294 L 2.0833333333333335 9.375000286102294 C 0.9327400475740433 9.375000286102294 0 10.307740362141304 0 11.458333683013915 L 0 18.750000572204588 C 0 19.90059376890085 0.9327400475740433 20.83333396911621 2.0833333333333335 20.83333396911621 L 16.666666666666668 20.83333396911621 C 17.817260821660362 20.83333396911621 18.75 19.90059376890085 18.75 18.750000572204588 L 18.75 11.458333683013915 C 18.75 10.307740362141304 17.817260821660362 9.375000286102294 16.666666666666668 9.375000286102294 Z"
+                  },
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M 4.166666666666667 9.375000286102294 L 4.166666666666667 5.208333492279053 C 4.166666666666669 3.8269975459231547 4.715400189161301 2.5022375850565597 5.692152182261149 1.5254855621486059 C 6.668904175360998 0.5487335392406523 7.993664095799128 9.251858820887287e-16 9.375 0 C 10.756335904200872 0 12.081095824639004 0.5487335392406523 13.057847817738852 1.5254855621486059 C 14.0345998108387 2.5022375850565597 14.583333333333334 3.8269975459231547 14.583333333333334 5.208333492279053 L 14.583333333333334 9.375000286102294"
+                  }
+                ],
+                "vectorNetwork": {
+                  "vertices": [
+                    {
+                      "x": 2.0833333333333335,
+                      "y": 9.375000286102294,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 16.666666666666668,
+                      "y": 9.375000286102294,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 11.458333683013915,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 18.75,
+                      "y": 18.750000572204588,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 16.666666666666668,
+                      "y": 20.83333396911621,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 2.0833333333333335,
+                      "y": 20.83333396911621,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 18.750000572204588,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 11.458333683013915,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 4.166666666666667,
+                      "y": 9.375000286102294,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 4.166666666666667,
+                      "y": 5.208333492279053,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 5.692152182261149,
+                      "y": 1.5254855621486059,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 9.375,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 13.057847817738852,
+                      "y": 1.5254855621486059,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 14.583333333333334,
+                      "y": 5.208333492279053,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 14.583333333333334,
+                      "y": 9.375000286102294,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    }
+                  ],
+                  "segments": [
+                    {
+                      "start": 0,
+                      "end": 1,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 1,
+                      "end": 2,
+                      "tangentStart": {
+                        "x": 1.150594154993693,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": -1.1505933208726105
+                      }
+                    },
+                    {
+                      "start": 2,
+                      "end": 3,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 3,
+                      "end": 4,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 1.1505931966962635
+                      },
+                      "tangentEnd": {
+                        "x": 1.150594154993693,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 4,
+                      "end": 5,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 5,
+                      "end": 6,
+                      "tangentStart": {
+                        "x": -1.1505932857592902,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 1.1505931966962635
+                      }
+                    },
+                    {
+                      "start": 6,
+                      "end": 7,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 7,
+                      "end": 0,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": -1.1505933208726105
+                      },
+                      "tangentEnd": {
+                        "x": -1.1505932857592902,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 8,
+                      "end": 9,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 9,
+                      "end": 10,
+                      "tangentStart": {
+                        "x": 1.8503717077085944e-15,
+                        "y": -1.381335946355898
+                      },
+                      "tangentEnd": {
+                        "x": -0.9767519930998485,
+                        "y": 0.9767520229079536
+                      }
+                    },
+                    {
+                      "start": 10,
+                      "end": 11,
+                      "tangentStart": {
+                        "x": 0.9767519930998485,
+                        "y": -0.9767520229079536
+                      },
+                      "tangentEnd": {
+                        "x": -1.381335904200872,
+                        "y": 9.251858820887287e-16
+                      }
+                    },
+                    {
+                      "start": 11,
+                      "end": 12,
+                      "tangentStart": {
+                        "x": 1.381335904200872,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": -0.9767519930998485,
+                        "y": -0.9767520229079536
+                      }
+                    },
+                    {
+                      "start": 12,
+                      "end": 13,
+                      "tangentStart": {
+                        "x": 0.9767519930998485,
+                        "y": 0.9767520229079536
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": -1.381335946355898
+                      }
+                    },
+                    {
+                      "start": 13,
+                      "end": 14,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "regions": [
+                    {
+                      "windingRule": "NONZERO",
+                      "loops": [
+                        [
+                          0,
+                          7,
+                          6,
+                          5,
+                          4,
+                          3,
+                          2,
+                          1
+                        ]
+                      ],
+                      "fillStyleId": "",
+                      "fills": []
+                    },
+                    {
+                      "windingRule": "NONZERO",
+                      "loops": [
+                        [
+                          8,
+                          9,
+                          10,
+                          11,
+                          12,
+                          13
+                        ]
+                      ],
+                      "fillStyleId": "",
+                      "fills": []
+                    }
+                  ]
+                },
+                "handleMirroring": "NONE",
+                "boundVariables": {
+                  "strokes": [
+                    {
+                      "type": "VARIABLE_ALIAS",
+                      "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/4245:248"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "31:887",
+        "name": "Checklist",
+        "type": "FRAME",
+        "visible": true,
+        "locked": false,
+        "width": 62,
+        "height": 216,
+        "x": 723,
+        "y": 15,
+        "rotation": 4.075085685625131e-15,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "relativeTransform": [
+          [
+            1,
+            7.112366251504909e-17,
+            723
+          ],
+          [
+            -7.112366251504909e-17,
+            1,
+            15
+          ]
+        ],
+        "absoluteTransform": [
+          [
+            1,
+            7.112366251504909e-17,
+            -1467
+          ],
+          [
+            -7.112366251504909e-17,
+            1,
+            2812
+          ]
+        ],
+        "absoluteBoundingBox": {
+          "x": -1467,
+          "y": 2812,
+          "width": 62,
+          "height": 216
+        },
+        "absoluteRenderBounds": {
+          "x": -1471,
+          "y": 2812,
+          "width": 70,
+          "height": 224
+        },
+        "targetAspectRatio": null,
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1,
+            "opacity": 1,
+            "blendMode": "NORMAL"
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "strokeJoin": "MITER",
+        "strokeCap": "NONE",
+        "strokeMiterLimit": 4,
+        "dashPattern": [],
+        "fillGeometry": [
+          {
+            "windingRule": "NONZERO",
+            "data": "M0 4.99999 C0 2.23857 2.23858 0 5 0 L57 0 C59.7614 0 62 2.23858 62 5 L62 211 C62 213.761 59.7614 216 57 216 L5 216 C2.23858 216 0 213.761 0 211 L0 4.99999 Z"
+          }
+        ],
+        "cornerRadius": 5,
+        "cornerSmoothing": 0,
+        "layoutMode": "NONE",
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "primaryAxisAlignItems": "MIN",
+        "counterAxisAlignItems": "MIN",
+        "counterAxisAlignContent": "AUTO",
+        "itemSpacing": 0,
+        "counterAxisSpacing": 0,
+        "layoutWrap": "NO_WRAP",
+        "primaryAxisSizingMode": "AUTO",
+        "counterAxisSizingMode": "FIXED",
+        "itemReverseZIndex": false,
+        "strokesIncludedInLayout": false,
+        "clipsContent": false,
+        "inferredAutoLayout": {
+          "layoutMode": "VERTICAL",
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 84,
+          "paddingBottom": 93,
+          "primaryAxisAlignItems": "MIN",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "FIXED",
+          "counterAxisSizingMode": "FIXED",
+          "itemSpacing": 0
+        },
+        "layoutGrow": 0,
+        "layoutAlign": "INHERIT",
+        "layoutPositioning": "AUTO",
+        "opacity": 1,
+        "blendMode": "PASS_THROUGH",
+        "isMask": false,
+        "maskType": "ALPHA",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.25
+            },
+            "offset": {
+              "x": 0,
+              "y": 4
+            },
+            "radius": 4,
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "devStatus": null,
+        "children": [
+          {
+            "id": "31:888",
+            "name": "Group 3",
+            "type": "GROUP",
+            "visible": true,
+            "locked": false,
+            "width": 62,
+            "height": 15,
+            "x": 0,
+            "y": 108,
+            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                108
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                7.112366251504909e-17,
+                -1467
+              ],
+              [
+                -7.112366251504909e-17,
+                1,
+                2920
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -1467,
+              "y": 2920,
+              "width": 62,
+              "height": 15
+            },
+            "absoluteRenderBounds": {
+              "x": -1467,
+              "y": 2920,
+              "width": 62,
+              "height": 15
+            },
+            "targetAspectRatio": null,
+            "inferredAutoLayout": {
+              "layoutMode": "HORIZONTAL",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "FIXED",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "children": [
+              {
+                "id": "31:889",
+                "name": "Setup",
+                "type": "TEXT",
+                "visible": true,
+                "locked": false,
+                "width": 62,
+                "height": 15,
+                "x": 0,
+                "y": 0,
+                "rotation": -6.965787261331904e-15,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    -1.4241740659892889e-16,
+                    0
+                  ],
+                  [
+                    1.215759227037204e-16,
+                    1,
+                    0
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    -7.12937440838798e-17,
+                    -1467
+                  ],
+                  [
+                    5.045226018867132e-17,
+                    1,
+                    2920
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1467,
+                  "y": 2920,
+                  "width": 62,
+                  "height": 15
+                },
+                "absoluteRenderBounds": {
+                  "x": -1452.23095703125,
+                  "y": 2922.002685546875,
+                  "width": 32.53125,
+                  "height": 11.49365234375
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.6800000071525574,
+                    "opacity": 0.6800000071525574,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.871757984161377,
+                "strokeAlign": "OUTSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M20.0046 4.34294 C19.9526 3.90376 19.7416 3.56281 19.3718 3.32011 C19.002 3.0774 18.5483 2.95605 18.0109 2.95605 C17.618 2.95605 17.2741 3.01962 16.9794 3.14675 C16.6876 3.27388 16.4593 3.44869 16.2947 3.67116 C16.1329 3.89364 16.052 4.14646 16.052 4.42962 C16.052 4.66655 16.1083 4.87024 16.221 5.04072 C16.3366 5.2083 16.4839 5.34843 16.663 5.46112 C16.8422 5.57091 17.03 5.66193 17.2265 5.73416 C17.4229 5.8035 17.6035 5.85985 17.7682 5.90319 L18.6697 6.14589 C18.9009 6.20657 19.158 6.29036 19.4412 6.39727 C19.7272 6.50417 20.0002 6.65008 20.2603 6.835 C20.5232 7.01703 20.7399 7.25107 20.9104 7.53711 C21.0809 7.82316 21.1661 8.17422 21.1661 8.59028 C21.1661 9.06991 21.0404 9.50332 20.789 9.89049 C20.5406 10.2777 20.1765 10.5854 19.6969 10.8136 C19.2201 11.0419 18.6408 11.156 17.9589 11.156 C17.3233 11.156 16.7728 11.0535 16.3077 10.8483 C15.8454 10.6432 15.4813 10.3571 15.2155 9.99017 C14.9526 9.62323 14.8038 9.19705 14.7691 8.71164 L15.8786 8.71164 C15.9075 9.0468 16.0202 9.32418 16.2166 9.54377 C16.416 9.76047 16.6674 9.92227 16.9708 10.0292 C17.277 10.1332 17.6064 10.1852 17.9589 10.1852 C18.3692 10.1852 18.7376 10.1187 19.0641 9.98584 C19.3906 9.85004 19.6492 9.66223 19.8399 9.42241 C20.0306 9.17971 20.1259 8.89655 20.1259 8.57295 C20.1259 8.27823 20.0436 8.03842 19.8789 7.8535 C19.7142 7.66858 19.4975 7.51833 19.2288 7.40276 C18.9601 7.28719 18.6697 7.18606 18.3577 7.09938 L17.2655 6.78733 C16.572 6.58796 16.0231 6.30336 15.6185 5.93353 C15.214 5.56369 15.0118 5.07972 15.0118 4.48163 C15.0118 3.98466 15.1461 3.55126 15.4148 3.18142 C15.6864 2.80869 16.0505 2.51976 16.507 2.31462 C16.9664 2.10658 17.4793 2.00257 18.0456 2.00257 C18.6177 2.00257 19.1262 2.10514 19.5712 2.31028 C20.0161 2.51254 20.3686 2.78991 20.6287 3.14241 C20.8916 3.49491 21.0303 3.89509 21.0447 4.34294 L20.0046 4.34294 Z M25.5857 11.1387 C24.9443 11.1387 24.391 10.9971 23.9258 10.714 C23.4635 10.4279 23.1067 10.0292 22.8553 9.51776 C22.6068 9.00346 22.4826 8.40536 22.4826 7.72348 C22.4826 7.04159 22.6068 6.44061 22.8553 5.92052 C23.1067 5.39755 23.4563 4.99015 23.9041 4.69833 C24.3549 4.40362 24.8807 4.25626 25.4817 4.25626 C25.8284 4.25626 26.1708 4.31405 26.5089 4.42962 C26.8469 4.54519 27.1546 4.733 27.432 4.99304 C27.7094 5.25019 27.9304 5.59114 28.0951 6.01587 C28.2598 6.44061 28.3422 6.96358 28.3422 7.58479 L28.3422 8.01819 L23.2107 8.01819 L23.2107 7.13405 L27.302 7.13405 C27.302 6.75843 27.2269 6.42327 27.0766 6.12856 C26.9293 5.83384 26.7183 5.60125 26.4439 5.43078 C26.1723 5.26031 25.8515 5.17507 25.4817 5.17507 C25.0743 5.17507 24.7218 5.2762 24.4242 5.47845 C24.1295 5.67782 23.9027 5.93786 23.7438 6.25858 C23.5848 6.5793 23.5054 6.92313 23.5054 7.29008 L23.5054 7.8795 C23.5054 8.38225 23.5921 8.80843 23.7654 9.15804 C23.9417 9.50476 24.1858 9.76914 24.4979 9.95117 C24.8099 10.1303 25.1725 10.2199 25.5857 10.2199 C25.8544 10.2199 26.0971 10.1823 26.3138 10.1072 C26.5334 10.0292 26.7227 9.9136 26.8816 9.76047 C27.0405 9.60444 27.1633 9.41086 27.25 9.17971 L28.2381 9.45709 C28.1341 9.79225 27.9593 10.087 27.7137 10.3412 C27.4681 10.5926 27.1647 10.7891 26.8036 10.9307 C26.4424 11.0693 26.0365 11.1387 25.5857 11.1387 Z M32.7932 4.34294 L32.7932 5.20974 L29.3433 5.20974 L29.3433 4.34294 L32.7932 4.34294 Z M30.3488 2.74802 L31.3716 2.74802 L31.3716 9.09303 C31.3716 9.38196 31.4135 9.59867 31.4973 9.74313 C31.584 9.88471 31.6938 9.98006 31.8267 10.0292 C31.9625 10.0754 32.1055 10.0985 32.2558 10.0985 C32.3685 10.0985 32.4609 10.0927 32.5332 10.0812 C32.6054 10.0667 32.6632 10.0552 32.7065 10.0465 L32.9146 10.9653 C32.8452 10.9913 32.7484 11.0173 32.6242 11.0433 C32.4999 11.0722 32.3425 11.0867 32.1518 11.0867 C31.8628 11.0867 31.5797 11.0246 31.3023 10.9003 C31.0278 10.7761 30.7996 10.5868 30.6175 10.3326 C30.4384 10.0783 30.3488 9.75758 30.3488 9.37041 L30.3488 2.74802 Z M38.5271 8.27823 L38.5271 4.34294 L39.5499 4.34294 L39.5499 11 L38.5271 11 L38.5271 9.87315 L38.4578 9.87315 C38.3017 10.2112 38.059 10.4987 37.7297 10.7356 C37.4003 10.9697 36.9842 11.0867 36.4815 11.0867 C36.0654 11.0867 35.6956 10.9957 35.3719 10.8136 C35.0483 10.6287 34.7941 10.3513 34.6092 9.9815 C34.4242 9.60878 34.3318 9.13926 34.3318 8.57295 L34.3318 4.34294 L35.3546 4.34294 L35.3546 8.5036 C35.3546 8.98901 35.4904 9.37619 35.762 9.66512 C36.0365 9.95406 36.3861 10.0985 36.8108 10.0985 C37.0651 10.0985 37.3237 10.0335 37.5866 9.90349 C37.8525 9.77347 38.0749 9.57411 38.2541 9.3054 C38.4361 9.03669 38.5271 8.6943 38.5271 8.27823 Z M41.4233 13.4964 L41.4233 4.34294 L42.4115 4.34294 L42.4115 5.40044 L42.5328 5.40044 C42.608 5.28487 42.712 5.13751 42.8449 4.95837 C42.9807 4.77634 43.1743 4.61454 43.4256 4.47296 C43.6799 4.32849 44.0237 4.25626 44.4571 4.25626 C45.0177 4.25626 45.5118 4.39639 45.9394 4.67666 C46.367 4.95693 46.7007 5.35421 46.9405 5.86852 C47.1804 6.38282 47.3003 6.98958 47.3003 7.68881 C47.3003 8.39381 47.1804 9.0049 46.9405 9.5221 C46.7007 10.0364 46.3685 10.4351 45.9437 10.7183 C45.519 10.9986 45.0292 11.1387 44.4745 11.1387 C44.0469 11.1387 43.7045 11.0679 43.4473 10.9263 C43.1902 10.7819 42.9922 10.6186 42.8536 10.4366 C42.7149 10.2517 42.608 10.0985 42.5328 9.97717 L42.4462 9.97717 L42.4462 13.4964 L41.4233 13.4964 Z M42.4288 7.67147 C42.4288 8.17422 42.5025 8.61773 42.6499 9.00202 C42.7972 9.38341 43.0125 9.68246 43.2956 9.89916 C43.5788 10.113 43.9255 10.2199 44.3358 10.2199 C44.7634 10.2199 45.1203 10.1072 45.4063 9.88182 C45.6952 9.65356 45.9119 9.34729 46.0564 8.96301 C46.2038 8.57584 46.2774 8.14532 46.2774 7.67147 C46.2774 7.20339 46.2052 6.78155 46.0607 6.40593 C45.9192 6.02743 45.7039 5.72838 45.415 5.50879 C45.1289 5.28631 44.7692 5.17507 44.3358 5.17507 C43.9197 5.17507 43.5701 5.28053 43.287 5.49146 C43.0038 5.69949 42.79 5.99131 42.6455 6.36693 C42.5011 6.73965 42.4288 7.1745 42.4288 7.67147 Z"
+                  }
+                ],
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "characters": "Setup",
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "textAutoResize": "NONE",
+                "textTruncation": "DISABLED",
+                "maxLines": null,
+                "hangingPunctuation": false,
+                "hangingList": false,
+                "listSpacing": 0,
+                "autoRename": true,
+                "fontName": {
+                  "family": "Inter",
+                  "style": "Regular"
+                },
+                "fontSize": 12.204611778259277,
+                "fontWeight": 400,
+                "letterSpacing": {
+                  "value": 0,
+                  "unit": "PERCENT"
+                },
+                "lineHeight": {
+                  "unit": "PIXELS",
+                  "value": 13.948127746582031
+                },
+                "paragraphIndent": 0,
+                "paragraphSpacing": 0,
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE",
+                "textDecorationStyle": null,
+                "textDecorationOffset": null,
+                "textDecorationThickness": null,
+                "textDecorationColor": null,
+                "textDecorationSkipInk": null,
+                "hyperlink": null,
+                "openTypeFeatures": {},
+                "leadingTrim": "NONE"
+              }
+            ]
+          },
+          {
+            "id": "31:890",
+            "name": "Arrow up-right",
+            "type": "INSTANCE",
+            "visible": true,
+            "locked": false,
+            "width": 24,
+            "height": 24,
+            "x": 19,
+            "y": 84,
+            "rotation": -4.075086443928459e-15,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                -7.112367574993889e-17,
+                19
+              ],
+              [
+                7.112367574993889e-17,
+                1,
+                84
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                -1.3234889800848443e-23,
+                -1448
+              ],
+              [
+                1.3234889800848443e-23,
+                1,
+                2896
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -1448,
+              "y": 2896,
+              "width": 24,
+              "height": 24
+            },
+            "absoluteRenderBounds": {
+              "x": -1448,
+              "y": 2896,
+              "width": 24,
+              "height": 24
+            },
+            "targetAspectRatio": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeJoin": "MITER",
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "fillGeometry": [
+              {
+                "windingRule": "NONZERO",
+                "data": "M0 0 L24 0 L24 24 L0 24 L0 0 Z"
+              }
+            ],
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "layoutMode": "NONE",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "counterAxisAlignContent": "AUTO",
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "layoutWrap": "NO_WRAP",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "itemReverseZIndex": false,
+            "strokesIncludedInLayout": false,
+            "clipsContent": true,
+            "inferredAutoLayout": {
+              "layoutMode": "HORIZONTAL",
+              "paddingLeft": 7,
+              "paddingRight": 7,
+              "paddingTop": 7,
+              "paddingBottom": 7,
+              "primaryAxisAlignItems": "CENTER",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "FIXED",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "variantProperties": null,
+            "mainComponentId": "31:876",
+            "mainComponentName": "Arrow up-right",
+            "componentProperties": {},
+            "isExposedInstance": false,
+            "overrides": [
+              {
+                "id": "I31:890;7758:11075",
+                "overriddenFields": [
+                  "opacity"
+                ]
+              }
+            ],
+            "devStatus": null,
+            "children": [
+              {
+                "id": "I31:890;7758:11075",
+                "name": "Icon",
+                "type": "VECTOR",
+                "visible": true,
+                "locked": false,
+                "width": 10,
+                "height": 10,
+                "x": 7,
+                "y": 7,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    7
+                  ],
+                  [
+                    0,
+                    1,
+                    7
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    -1.3234889800848443e-23,
+                    -1441
+                  ],
+                  [
+                    1.3234889800848443e-23,
+                    1,
+                    2903
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1441,
+                  "y": 2903,
+                  "width": 10,
+                  "height": 10
+                },
+                "absoluteRenderBounds": {
+                  "x": -1442.25,
+                  "y": 2901.75,
+                  "width": 12.5,
+                  "height": 12.5
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "SCALE",
+                  "vertical": "SCALE"
+                },
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.11764705926179886,
+                    "g": 0.11764705926179886,
+                    "b": 0.11764705926179886,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "boundVariables": {
+                      "color": {
+                        "type": "VARIABLE_ALIAS",
+                        "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/5613:412"
+                      }
+                    }
+                  }
+                ],
+                "strokeWeight": 2.5,
+                "strokeAlign": "CENTER",
+                "strokeJoin": "ROUND",
+                "strokeCap": "ROUND",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M0 0 L10 0 L10 10"
+                  }
+                ],
+                "strokeGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M-0.883883 9.11612 C-1.37204 9.60427 -1.37204 10.3957 -0.883883 10.8839 C-0.395728 11.372 0.395728 11.372 0.883883 10.8839 L0 10 L-0.883883 9.11612 Z M10 0 L11.25 0 C11.25 -0.690356 10.6904 -1.25 10 -1.25 L10 0 Z M0 -1.25 C-0.690356 -1.25 -1.25 -0.690356 -1.25 0 C-1.25 0.690356 -0.690356 1.25 0 1.25 L0 0 L0 -1.25 Z M8.75 10 C8.75 10.6904 9.30964 11.25 10 11.25 C10.6904 11.25 11.25 10.6904 11.25 10 L10 10 L8.75 10 Z M0 10 L0.883883 10.8839 L10.8839 0.883883 L10 0 L9.11612 -0.883883 L-0.883883 9.11612 L0 10 Z M0 0 L0 1.25 L10 1.25 L10 0 L10 -1.25 L0 -1.25 L0 0 Z M10 0 L8.75 0 L8.75 10 L10 10 L11.25 10 L11.25 0 L10 0 Z"
+                  }
+                ],
+                "cornerRadius": 0,
+                "cornerSmoothing": 0,
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 0.6800000071525574,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "vectorPaths": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M 0 0 L 10 0 L 10 10"
+                  },
+                  {
+                    "windingRule": "NONE",
+                    "data": "M 0 10 L 10 0"
+                  }
+                ],
+                "vectorNetwork": {
+                  "vertices": [
+                    {
+                      "x": 0,
+                      "y": 10,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 10,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    },
+                    {
+                      "x": 10,
+                      "y": 10,
+                      "strokeCap": "ROUND",
+                      "strokeJoin": "ROUND",
+                      "cornerRadius": 0,
+                      "handleMirroring": "NONE"
+                    }
+                  ],
+                  "segments": [
+                    {
+                      "start": 0,
+                      "end": 1,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 2,
+                      "end": 1,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "start": 1,
+                      "end": 3,
+                      "tangentStart": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tangentEnd": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "regions": [
+                    {
+                      "windingRule": "NONZERO",
+                      "loops": [
+                        [
+                          1,
+                          2
+                        ]
+                      ],
+                      "fillStyleId": "",
+                      "fills": []
+                    }
+                  ]
+                },
+                "handleMirroring": "NONE",
+                "boundVariables": {
+                  "strokes": [
+                    {
+                      "type": "VARIABLE_ALIAS",
+                      "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/5613:412"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "31:897",
+        "name": "Frame 1",
+        "type": "FRAME",
+        "visible": true,
+        "locked": false,
+        "width": 693,
+        "height": 447,
+        "x": 15,
+        "y": 15,
+        "rotation": 0,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            15
+          ],
+          [
+            0,
+            1,
+            15
+          ]
+        ],
+        "absoluteTransform": [
+          [
+            1,
+            0,
+            -2175
+          ],
+          [
+            0,
+            1,
+            2812
+          ]
+        ],
+        "absoluteBoundingBox": {
+          "x": -2175,
+          "y": 2812,
+          "width": 693,
+          "height": 447
+        },
+        "absoluteRenderBounds": {
+          "x": -2179,
+          "y": 2812,
+          "width": 701,
+          "height": 455
+        },
+        "targetAspectRatio": null,
+        "constraints": {
+          "horizontal": "MIN",
+          "vertical": "MIN"
+        },
+        "fills": [
+          {
+            "type": "SOLID",
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1,
+            "opacity": 1,
+            "blendMode": "NORMAL"
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "INSIDE",
+        "strokeJoin": "MITER",
+        "strokeCap": "NONE",
+        "strokeMiterLimit": 4,
+        "dashPattern": [],
+        "fillGeometry": [
+          {
+            "windingRule": "NONZERO",
+            "data": "M0 5.00001 C0 2.23859 2.23858 0 5 0 L688 0 C690.761 0 693 2.23858 693 5 L693 442 C693 444.761 690.761 447 688 447 L5.00001 447 C2.23859 447 0 444.761 0 442 L0 5.00001 Z"
+          }
+        ],
+        "cornerRadius": 5,
+        "cornerSmoothing": 0,
+        "layoutMode": "NONE",
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "primaryAxisAlignItems": "MIN",
+        "counterAxisAlignItems": "MIN",
+        "counterAxisAlignContent": "AUTO",
+        "itemSpacing": 0,
+        "counterAxisSpacing": 0,
+        "layoutWrap": "NO_WRAP",
+        "primaryAxisSizingMode": "AUTO",
+        "counterAxisSizingMode": "FIXED",
+        "itemReverseZIndex": false,
+        "strokesIncludedInLayout": false,
+        "clipsContent": true,
+        "inferredAutoLayout": {
+          "layoutMode": "VERTICAL",
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 15,
+          "paddingBottom": 231,
+          "primaryAxisAlignItems": "MIN",
+          "counterAxisAlignItems": "CENTER",
+          "primaryAxisSizingMode": "AUTO",
+          "counterAxisSizingMode": "FIXED",
+          "itemSpacing": 20
+        },
+        "layoutGrow": 0,
+        "layoutAlign": "INHERIT",
+        "layoutPositioning": "AUTO",
+        "opacity": 1,
+        "blendMode": "PASS_THROUGH",
+        "isMask": false,
+        "maskType": "ALPHA",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.25
+            },
+            "offset": {
+              "x": 0,
+              "y": 4
+            },
+            "radius": 4,
+            "spread": 0,
+            "blendMode": "NORMAL",
+            "showShadowBehindNode": false
+          }
+        ],
+        "devStatus": null,
+        "children": [
+          {
+            "id": "32:58",
+            "name": "Setup title",
+            "type": "FRAME",
+            "visible": true,
+            "locked": false,
+            "width": 693,
+            "height": 36,
+            "x": 0,
+            "y": 15,
+            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                15
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                0,
+                -2175
+              ],
+              [
+                0,
+                1,
+                2827
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -2175,
+              "y": 2827,
+              "width": 693,
+              "height": 36
+            },
+            "absoluteRenderBounds": {
+              "x": -2175,
+              "y": 2827,
+              "width": 693,
+              "height": 36
+            },
+            "targetAspectRatio": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeJoin": "MITER",
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "fillGeometry": [
+              {
+                "windingRule": "NONZERO",
+                "data": "M0 0 L693 0 L693 36 L0 36 L0 0 Z"
+              }
+            ],
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "layoutMode": "NONE",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "counterAxisAlignContent": "AUTO",
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "layoutWrap": "NO_WRAP",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "itemReverseZIndex": false,
+            "strokesIncludedInLayout": false,
+            "clipsContent": true,
+            "inferredAutoLayout": {
+              "layoutMode": "HORIZONTAL",
+              "paddingLeft": 2,
+              "paddingRight": 0,
+              "paddingTop": 5,
+              "paddingBottom": 5,
+              "primaryAxisAlignItems": "MAX",
+              "counterAxisAlignItems": "CENTER",
+              "primaryAxisSizingMode": "FIXED",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "devStatus": null,
+            "children": [
+              {
+                "id": "32:59",
+                "name": "Setup",
+                "type": "TEXT",
+                "visible": true,
+                "locked": false,
+                "width": 693,
+                "height": 26,
+                "x": 2,
+                "y": 5,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    2
+                  ],
+                  [
+                    0,
+                    1,
+                    5
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -2173
+                  ],
+                  [
+                    0,
+                    1,
+                    2832
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -2173,
+                  "y": 2832,
+                  "width": 693,
+                  "height": 26
+                },
+                "absoluteRenderBounds": {
+                  "x": -1847.7784423828125,
+                  "y": 2839.20458984375,
+                  "width": 42.647705078125,
+                  "height": 15.068115234375
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.6800000071525574,
+                    "opacity": 0.6800000071525574,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "OUTSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M332.085 10.2727 C332.017 9.69697 331.741 9.25 331.256 8.93182 C330.771 8.61364 330.176 8.45455 329.472 8.45455 C328.956 8.45455 328.506 8.53788 328.119 8.70455 C327.737 8.87121 327.438 9.10038 327.222 9.39205 C327.009 9.68371 326.903 10.0152 326.903 10.3864 C326.903 10.697 326.977 10.964 327.125 11.1875 C327.277 11.4072 327.47 11.5909 327.705 11.7386 C327.939 11.8826 328.186 12.0019 328.443 12.0966 C328.701 12.1875 328.938 12.2614 329.153 12.3182 L330.335 12.6364 C330.638 12.7159 330.975 12.8258 331.347 12.9659 C331.722 13.1061 332.08 13.2973 332.42 13.5398 C332.765 13.7784 333.049 14.0852 333.273 14.4602 C333.496 14.8352 333.608 15.2955 333.608 15.8409 C333.608 16.4697 333.443 17.0379 333.114 17.5455 C332.788 18.053 332.311 18.4564 331.682 18.7557 C331.057 19.0549 330.297 19.2045 329.403 19.2045 C328.57 19.2045 327.848 19.0701 327.239 18.8011 C326.633 18.5322 326.155 18.1572 325.807 17.6761 C325.462 17.1951 325.267 16.6364 325.222 16 L326.676 16 C326.714 16.4394 326.862 16.803 327.119 17.0909 C327.381 17.375 327.71 17.5871 328.108 17.7273 C328.509 17.8636 328.941 17.9318 329.403 17.9318 C329.941 17.9318 330.424 17.8447 330.852 17.6705 C331.28 17.4924 331.619 17.2462 331.869 16.9318 C332.119 16.6136 332.244 16.2424 332.244 15.8182 C332.244 15.4318 332.136 15.1174 331.92 14.875 C331.705 14.6326 331.42 14.4356 331.068 14.2841 C330.716 14.1326 330.335 14 329.926 13.8864 L328.494 13.4773 C327.585 13.2159 326.866 12.8428 326.335 12.358 C325.805 11.8731 325.54 11.2386 325.54 10.4545 C325.54 9.80303 325.716 9.23485 326.068 8.75 C326.424 8.26136 326.902 7.88258 327.5 7.61364 C328.102 7.34091 328.775 7.20455 329.517 7.20455 C330.267 7.20455 330.934 7.33901 331.517 7.60795 C332.1 7.87311 332.562 8.23674 332.903 8.69886 C333.248 9.16098 333.43 9.68561 333.449 10.2727 L332.085 10.2727 Z M339.402 19.1818 C338.561 19.1818 337.836 18.9962 337.226 18.625 C336.62 18.25 336.152 17.7273 335.822 17.0568 C335.497 16.3826 335.334 15.5985 335.334 14.7045 C335.334 13.8106 335.497 13.0227 335.822 12.3409 C336.152 11.6553 336.61 11.1212 337.197 10.7386 C337.788 10.3523 338.478 10.1591 339.266 10.1591 C339.72 10.1591 340.169 10.2348 340.612 10.3864 C341.055 10.5379 341.459 10.7841 341.822 11.125 C342.186 11.4621 342.476 11.9091 342.692 12.4659 C342.908 13.0227 343.016 13.7083 343.016 14.5227 L343.016 15.0909 L336.288 15.0909 L336.288 13.9318 L341.652 13.9318 C341.652 13.4394 341.553 13 341.357 12.6136 C341.163 12.2273 340.887 11.9223 340.527 11.6989 C340.171 11.4754 339.75 11.3636 339.266 11.3636 C338.732 11.3636 338.269 11.4962 337.879 11.7614 C337.493 12.0227 337.196 12.3636 336.987 12.7841 C336.779 13.2045 336.675 13.6553 336.675 14.1364 L336.675 14.9091 C336.675 15.5682 336.788 16.1269 337.016 16.5852 C337.247 17.0398 337.567 17.3864 337.976 17.625 C338.385 17.8598 338.86 17.9773 339.402 17.9773 C339.754 17.9773 340.072 17.928 340.357 17.8295 C340.644 17.7273 340.893 17.5758 341.101 17.375 C341.309 17.1705 341.47 16.9167 341.584 16.6136 L342.879 16.9773 C342.743 17.4167 342.514 17.803 342.192 18.1364 C341.87 18.4659 341.472 18.7235 340.999 18.9091 C340.525 19.0909 339.993 19.1818 339.402 19.1818 Z M348.851 10.2727 L348.851 11.4091 L344.328 11.4091 L344.328 10.2727 L348.851 10.2727 Z M345.646 8.18182 L346.987 8.18182 L346.987 16.5 C346.987 16.8788 347.042 17.1629 347.152 17.3523 C347.266 17.5379 347.41 17.6629 347.584 17.7273 C347.762 17.7879 347.949 17.8182 348.146 17.8182 C348.294 17.8182 348.415 17.8106 348.51 17.7955 C348.605 17.7765 348.68 17.7614 348.737 17.75 L349.01 18.9545 C348.919 18.9886 348.792 19.0227 348.629 19.0568 C348.466 19.0947 348.26 19.1136 348.01 19.1136 C347.631 19.1136 347.26 19.0322 346.896 18.8693 C346.536 18.7064 346.237 18.4583 345.999 18.125 C345.764 17.7917 345.646 17.3712 345.646 16.8636 L345.646 8.18182 Z M356.368 15.4318 L356.368 10.2727 L357.709 10.2727 L357.709 19 L356.368 19 L356.368 17.5227 L356.277 17.5227 C356.072 17.9659 355.754 18.3428 355.322 18.6534 C354.891 18.9602 354.345 19.1136 353.686 19.1136 C353.141 19.1136 352.656 18.9943 352.232 18.7557 C351.807 18.5133 351.474 18.1496 351.232 17.6648 C350.989 17.1761 350.868 16.5606 350.868 15.8182 L350.868 10.2727 L352.209 10.2727 L352.209 15.7273 C352.209 16.3636 352.387 16.8712 352.743 17.25 C353.103 17.6288 353.561 17.8182 354.118 17.8182 C354.451 17.8182 354.79 17.733 355.135 17.5625 C355.483 17.392 355.775 17.1307 356.01 16.7784 C356.249 16.4261 356.368 15.9773 356.368 15.4318 Z M360.165 22.2727 L360.165 10.2727 L361.46 10.2727 L361.46 11.6591 L361.619 11.6591 C361.718 11.5076 361.854 11.3144 362.028 11.0795 C362.206 10.8409 362.46 10.6288 362.79 10.4432 C363.123 10.2538 363.574 10.1591 364.142 10.1591 C364.877 10.1591 365.525 10.3428 366.085 10.7102 C366.646 11.0777 367.083 11.5985 367.398 12.2727 C367.712 12.947 367.869 13.7424 367.869 14.6591 C367.869 15.5833 367.712 16.3845 367.398 17.0625 C367.083 17.7367 366.648 18.2595 366.091 18.6307 C365.534 18.9981 364.892 19.1818 364.165 19.1818 C363.604 19.1818 363.155 19.089 362.818 18.9034 C362.481 18.714 362.222 18.5 362.04 18.2614 C361.858 18.0189 361.718 17.8182 361.619 17.6591 L361.506 17.6591 L361.506 22.2727 L360.165 22.2727 Z M361.483 14.6364 C361.483 15.2955 361.58 15.8769 361.773 16.3807 C361.966 16.8807 362.248 17.2727 362.619 17.5568 C362.991 17.8371 363.445 17.9773 363.983 17.9773 C364.544 17.9773 365.011 17.8295 365.386 17.5341 C365.765 17.2348 366.049 16.8333 366.239 16.3295 C366.432 15.822 366.528 15.2576 366.528 14.6364 C366.528 14.0227 366.434 13.4697 366.244 12.9773 C366.059 12.4811 365.777 12.089 365.398 11.8011 C365.023 11.5095 364.551 11.3636 363.983 11.3636 C363.438 11.3636 362.979 11.5019 362.608 11.7784 C362.237 12.0511 361.956 12.4337 361.767 12.9261 C361.578 13.4148 361.483 13.9848 361.483 14.6364 Z"
+                  }
+                ],
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "characters": "Setup",
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "CENTER",
+                "textAutoResize": "NONE",
+                "textTruncation": "DISABLED",
+                "maxLines": null,
+                "hangingPunctuation": false,
+                "hangingList": false,
+                "listSpacing": 0,
+                "autoRename": false,
+                "fontName": {
+                  "family": "Inter",
+                  "style": "Regular"
+                },
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": {
+                  "value": 0,
+                  "unit": "PERCENT"
+                },
+                "lineHeight": {
+                  "unit": "AUTO"
+                },
+                "paragraphIndent": 0,
+                "paragraphSpacing": 0,
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE",
+                "textDecorationStyle": null,
+                "textDecorationOffset": null,
+                "textDecorationThickness": null,
+                "textDecorationColor": null,
+                "textDecorationSkipInk": null,
+                "hyperlink": null,
+                "openTypeFeatures": {},
+                "leadingTrim": "NONE"
+              }
+            ]
+          },
+          {
+            "id": "32:60",
+            "name": "location date and time",
+            "type": "FRAME",
+            "visible": true,
+            "locked": false,
+            "width": 310,
+            "height": 145,
+            "x": 191,
+            "y": 71,
+            "rotation": 0,
+            "minWidth": null,
+            "maxWidth": null,
+            "minHeight": null,
+            "maxHeight": null,
+            "layoutSizingHorizontal": "FIXED",
+            "layoutSizingVertical": "FIXED",
+            "relativeTransform": [
+              [
+                1,
+                0,
+                191
+              ],
+              [
+                0,
+                1,
+                71
+              ]
+            ],
+            "absoluteTransform": [
+              [
+                1,
+                0,
+                -1984
+              ],
+              [
+                0,
+                1,
+                2883
+              ]
+            ],
+            "absoluteBoundingBox": {
+              "x": -1984,
+              "y": 2883,
+              "width": 310,
+              "height": 145
+            },
+            "absoluteRenderBounds": {
+              "x": -1984,
+              "y": 2883,
+              "width": 310,
+              "height": 145
+            },
+            "targetAspectRatio": null,
+            "constraints": {
+              "horizontal": "MIN",
+              "vertical": "MIN"
+            },
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1,
+            "strokeAlign": "INSIDE",
+            "strokeJoin": "MITER",
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "dashPattern": [],
+            "fillGeometry": [
+              {
+                "windingRule": "NONZERO",
+                "data": "M0 0 L310 0 L310 145 L0 145 L0 0 Z"
+              }
+            ],
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "layoutMode": "NONE",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "primaryAxisAlignItems": "MIN",
+            "counterAxisAlignItems": "MIN",
+            "counterAxisAlignContent": "AUTO",
+            "itemSpacing": 0,
+            "counterAxisSpacing": 0,
+            "layoutWrap": "NO_WRAP",
+            "primaryAxisSizingMode": "AUTO",
+            "counterAxisSizingMode": "FIXED",
+            "itemReverseZIndex": false,
+            "strokesIncludedInLayout": false,
+            "clipsContent": true,
+            "inferredAutoLayout": {
+              "layoutMode": "NONE",
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "primaryAxisAlignItems": "MIN",
+              "counterAxisAlignItems": "MIN",
+              "primaryAxisSizingMode": "AUTO",
+              "counterAxisSizingMode": "FIXED",
+              "itemSpacing": 0
+            },
+            "layoutGrow": 0,
+            "layoutAlign": "INHERIT",
+            "layoutPositioning": "AUTO",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "maskType": "ALPHA",
+            "effects": [],
+            "devStatus": null,
+            "children": [
+              {
+                "id": "32:61",
+                "name": "Date:",
+                "type": "TEXT",
+                "visible": true,
+                "locked": false,
+                "width": 125,
+                "height": 40,
+                "x": 0,
+                "y": 0,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    1,
+                    0
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -1984
+                  ],
+                  [
+                    0,
+                    1,
+                    2883
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1984,
+                  "y": 2883,
+                  "width": 125,
+                  "height": 40
+                },
+                "absoluteRenderBounds": {
+                  "x": -1983.6590576171875,
+                  "y": 2896.818115234375,
+                  "width": 51.6676025390625,
+                  "height": 12.181884765625
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.6800000071525574,
+                    "opacity": 0.6800000071525574,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "OUTSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M3.52273 26 L0.340909 14.3636 L1.77273 14.3636 L4.20455 23.8409 L4.31818 23.8409 L6.79545 14.3636 L8.38636 14.3636 L10.8636 23.8409 L10.9773 23.8409 L13.4091 14.3636 L14.8409 14.3636 L11.6591 26 L10.2045 26 L7.63636 16.7273 L7.54545 16.7273 L4.97727 26 L3.52273 26 Z M16.4148 26 L16.4148 17.2727 L17.7557 17.2727 L17.7557 26 L16.4148 26 Z M17.0966 15.8182 C16.8352 15.8182 16.6098 15.7292 16.4205 15.5511 C16.2348 15.3731 16.142 15.1591 16.142 14.9091 C16.142 14.6591 16.2348 14.4451 16.4205 14.267 C16.6098 14.089 16.8352 14 17.0966 14 C17.358 14 17.5814 14.089 17.767 14.267 C17.9564 14.4451 18.0511 14.6591 18.0511 14.9091 C18.0511 15.1591 17.9564 15.3731 17.767 15.5511 C17.5814 15.7292 17.358 15.8182 17.0966 15.8182 Z M24.098 17.2727 L24.098 18.4091 L19.3935 18.4091 L19.3935 17.2727 L24.098 17.2727 Z M20.8026 26 L20.8026 16.0682 C20.8026 15.5682 20.92 15.1515 21.1548 14.8182 C21.3897 14.4848 21.6946 14.2348 22.0696 14.0682 C22.4446 13.9015 22.8404 13.8182 23.2571 13.8182 C23.5866 13.8182 23.8556 13.8447 24.0639 13.8977 C24.2723 13.9508 24.4276 14 24.5298 14.0455 L24.1435 15.2045 C24.0753 15.1818 23.9806 15.1534 23.8594 15.1193 C23.742 15.0852 23.5866 15.0682 23.3935 15.0682 C22.9503 15.0682 22.6302 15.1799 22.4332 15.4034 C22.2401 15.6269 22.1435 15.9545 22.1435 16.3864 L22.1435 26 L20.8026 26 Z M25.9773 26 L25.9773 17.2727 L27.3182 17.2727 L27.3182 26 L25.9773 26 Z M26.6591 15.8182 C26.3977 15.8182 26.1723 15.7292 25.983 15.5511 C25.7973 15.3731 25.7045 15.1591 25.7045 14.9091 C25.7045 14.6591 25.7973 14.4451 25.983 14.267 C26.1723 14.089 26.3977 14 26.6591 14 C26.9205 14 27.1439 14.089 27.3295 14.267 C27.5189 14.4451 27.6136 14.6591 27.6136 14.9091 C27.6136 15.1591 27.5189 15.3731 27.3295 15.5511 C27.1439 15.7292 26.9205 15.8182 26.6591 15.8182 Z M35.8651 14.3636 L35.8651 26 L34.456 26 L34.456 14.3636 L35.8651 14.3636 Z M42.2812 26 L38.6903 26 L38.6903 14.3636 L42.4403 14.3636 C43.5691 14.3636 44.535 14.5966 45.3381 15.0625 C46.1411 15.5246 46.7566 16.1894 47.1847 17.0568 C47.6127 17.9205 47.8267 18.9545 47.8267 20.1591 C47.8267 21.3712 47.6108 22.4148 47.179 23.2898 C46.7472 24.161 46.1184 24.8314 45.2926 25.3011 C44.4669 25.767 43.4631 26 42.2812 26 Z M40.0994 24.75 L42.1903 24.75 C43.1525 24.75 43.9498 24.5644 44.5824 24.1932 C45.215 23.822 45.6866 23.2936 45.9972 22.608 C46.3078 21.9223 46.4631 21.1061 46.4631 20.1591 C46.4631 19.2197 46.3097 18.411 46.0028 17.733 C45.696 17.0511 45.2377 16.5284 44.6278 16.1648 C44.018 15.7973 43.2585 15.6136 42.3494 15.6136 L40.0994 15.6136 L40.0994 24.75 Z M50.9858 24.5114 C50.7055 24.5114 50.465 24.411 50.2642 24.2102 C50.0634 24.0095 49.9631 23.7689 49.9631 23.4886 C49.9631 23.2083 50.0634 22.9678 50.2642 22.767 C50.465 22.5663 50.7055 22.4659 50.9858 22.4659 C51.2661 22.4659 51.5066 22.5663 51.7074 22.767 C51.9081 22.9678 52.0085 23.2083 52.0085 23.4886 C52.0085 23.6742 51.9612 23.8447 51.8665 24 C51.7756 24.1553 51.6525 24.2803 51.4972 24.375 C51.3456 24.4659 51.1752 24.5114 50.9858 24.5114 Z M50.9858 18.625 C50.7055 18.625 50.465 18.5246 50.2642 18.3239 C50.0634 18.1231 49.9631 17.8826 49.9631 17.6023 C49.9631 17.322 50.0634 17.0814 50.2642 16.8807 C50.465 16.6799 50.7055 16.5795 50.9858 16.5795 C51.2661 16.5795 51.5066 16.6799 51.7074 16.8807 C51.9081 17.0814 52.0085 17.322 52.0085 17.6023 C52.0085 17.7879 51.9612 17.9583 51.8665 18.1136 C51.7756 18.2689 51.6525 18.3939 51.4972 18.4886 C51.3456 18.5795 51.1752 18.625 50.9858 18.625 Z"
+                  }
+                ],
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "characters": "Wifi ID:",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "CENTER",
+                "textAutoResize": "NONE",
+                "textTruncation": "DISABLED",
+                "maxLines": null,
+                "hangingPunctuation": false,
+                "hangingList": false,
+                "listSpacing": 0,
+                "autoRename": false,
+                "fontName": {
+                  "family": "Inter",
+                  "style": "Regular"
+                },
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": {
+                  "value": 0,
+                  "unit": "PERCENT"
+                },
+                "lineHeight": {
+                  "unit": "AUTO"
+                },
+                "paragraphIndent": 0,
+                "paragraphSpacing": 0,
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE",
+                "textDecorationStyle": null,
+                "textDecorationOffset": null,
+                "textDecorationThickness": null,
+                "textDecorationColor": null,
+                "textDecorationSkipInk": null,
+                "hyperlink": null,
+                "openTypeFeatures": {},
+                "leadingTrim": "NONE"
+              },
+              {
+                "id": "32:62",
+                "name": "06 button",
+                "type": "FRAME",
+                "visible": true,
+                "locked": false,
+                "width": 170,
+                "height": 40,
+                "x": 140,
+                "y": 0,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    140
+                  ],
+                  [
+                    0,
+                    1,
+                    0
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -1844
+                  ],
+                  [
+                    0,
+                    1,
+                    2883
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1844,
+                  "y": 2883,
+                  "width": 170,
+                  "height": 40
+                },
+                "absoluteRenderBounds": {
+                  "x": -1844,
+                  "y": 2883,
+                  "width": 170,
+                  "height": 40
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.9803921580314636,
+                    "g": 0.9803921580314636,
+                    "b": 0.9803921580314636,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M0 3 C0 1.34315 1.34315 0 3 0 L167 0 C168.657 0 170 1.34315 170 3 L170 37 C170 38.6569 168.657 40 167 40 L3.00001 40 C1.34315 40 0 38.6569 0 37 L0 3 Z"
+                  }
+                ],
+                "cornerRadius": 3,
+                "cornerSmoothing": 0,
+                "layoutMode": "NONE",
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "primaryAxisAlignItems": "MIN",
+                "counterAxisAlignItems": "MIN",
+                "counterAxisAlignContent": "AUTO",
+                "itemSpacing": 0,
+                "counterAxisSpacing": 0,
+                "layoutWrap": "NO_WRAP",
+                "primaryAxisSizingMode": "AUTO",
+                "counterAxisSizingMode": "FIXED",
+                "itemReverseZIndex": false,
+                "strokesIncludedInLayout": false,
+                "clipsContent": true,
+                "inferredAutoLayout": {
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "primaryAxisAlignItems": "CENTER",
+                  "counterAxisAlignItems": "CENTER",
+                  "primaryAxisSizingMode": "FIXED",
+                  "counterAxisSizingMode": "FIXED",
+                  "itemSpacing": 0
+                },
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "devStatus": null,
+                "children": [
+                  {
+                    "id": "32:63",
+                    "name": "06",
+                    "type": "TEXT",
+                    "visible": true,
+                    "locked": false,
+                    "width": 170,
+                    "height": 40,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "minWidth": null,
+                    "maxWidth": null,
+                    "minHeight": null,
+                    "maxHeight": null,
+                    "layoutSizingHorizontal": "FIXED",
+                    "layoutSizingVertical": "FIXED",
+                    "relativeTransform": [
+                      [
+                        1,
+                        0,
+                        0
+                      ],
+                      [
+                        0,
+                        1,
+                        0
+                      ]
+                    ],
+                    "absoluteTransform": [
+                      [
+                        1,
+                        0,
+                        -1844
+                      ],
+                      [
+                        0,
+                        1,
+                        2883
+                      ]
+                    ],
+                    "absoluteBoundingBox": {
+                      "x": -1844,
+                      "y": 2883,
+                      "width": 170,
+                      "height": 40
+                    },
+                    "absoluteRenderBounds": {
+                      "x": -1776.1612548828125,
+                      "y": 2897.20458984375,
+                      "width": 34.2769775390625,
+                      "height": 12
+                    },
+                    "targetAspectRatio": null,
+                    "constraints": {
+                      "horizontal": "MIN",
+                      "vertical": "MIN"
+                    },
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 0.6800000071525574,
+                        "opacity": 0.6800000071525574,
+                        "blendMode": "NORMAL"
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1,
+                    "strokeAlign": "OUTSIDE",
+                    "strokeJoin": "MITER",
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "dashPattern": [],
+                    "fillGeometry": [
+                      {
+                        "windingRule": "NONZERO",
+                        "data": "M74.7024 17.2727 C74.6342 16.697 74.3577 16.25 73.8729 15.9318 C73.388 15.6136 72.7933 15.4545 72.0888 15.4545 C71.5736 15.4545 71.1229 15.5379 70.7365 15.7045 C70.3539 15.8712 70.0547 16.1004 69.8388 16.392 C69.6267 16.6837 69.5206 17.0152 69.5206 17.3864 C69.5206 17.697 69.5945 17.964 69.7422 18.1875 C69.8937 18.4072 70.0869 18.5909 70.3217 18.7386 C70.5566 18.8826 70.8028 19.0019 71.0604 19.0966 C71.3179 19.1875 71.5547 19.2614 71.7706 19.3182 L72.9524 19.6364 C73.2554 19.7159 73.5926 19.8258 73.9638 19.9659 C74.3388 20.1061 74.6967 20.2973 75.0376 20.5398 C75.3823 20.7784 75.6664 21.0852 75.8899 21.4602 C76.1134 21.8352 76.2251 22.2955 76.2251 22.8409 C76.2251 23.4697 76.0604 24.0379 75.7308 24.5455 C75.4051 25.053 74.9278 25.4564 74.299 25.7557 C73.674 26.0549 72.9145 26.2045 72.0206 26.2045 C71.1873 26.2045 70.4657 26.0701 69.8558 25.8011 C69.2498 25.5322 68.7725 25.1572 68.424 24.6761 C68.0793 24.1951 67.8842 23.6364 67.8388 23 L69.2933 23 C69.3312 23.4394 69.4789 23.803 69.7365 24.0909 C69.9979 24.375 70.3274 24.5871 70.7251 24.7273 C71.1267 24.8636 71.5585 24.9318 72.0206 24.9318 C72.5585 24.9318 73.0414 24.8447 73.4695 24.6705 C73.8975 24.4924 74.2365 24.2462 74.4865 23.9318 C74.7365 23.6136 74.8615 23.2424 74.8615 22.8182 C74.8615 22.4318 74.7536 22.1174 74.5376 21.875 C74.3217 21.6326 74.0376 21.4356 73.6854 21.2841 C73.3331 21.1326 72.9524 21 72.5433 20.8864 L71.1115 20.4773 C70.2024 20.2159 69.4827 19.8428 68.9524 19.358 C68.4221 18.8731 68.157 18.2386 68.157 17.4545 C68.157 16.803 68.3331 16.2348 68.6854 15.75 C69.0414 15.2614 69.5187 14.8826 70.1172 14.6136 C70.7195 14.3409 71.3918 14.2045 72.1342 14.2045 C72.8842 14.2045 73.5509 14.339 74.1342 14.608 C74.7176 14.8731 75.1797 15.2367 75.5206 15.6989 C75.8653 16.161 76.0471 16.6856 76.0661 17.2727 L74.7024 17.2727 Z M84.9055 17.2727 C84.8374 16.697 84.5608 16.25 84.076 15.9318 C83.5911 15.6136 82.9965 15.4545 82.2919 15.4545 C81.7767 15.4545 81.326 15.5379 80.9396 15.7045 C80.5571 15.8712 80.2578 16.1004 80.0419 16.392 C79.8298 16.6837 79.7237 17.0152 79.7237 17.3864 C79.7237 17.697 79.7976 17.964 79.9453 18.1875 C80.0968 18.4072 80.29 18.5909 80.5249 18.7386 C80.7597 18.8826 81.0059 19.0019 81.2635 19.0966 C81.5211 19.1875 81.7578 19.2614 81.9737 19.3182 L83.1555 19.6364 C83.4586 19.7159 83.7957 19.8258 84.1669 19.9659 C84.5419 20.1061 84.8999 20.2973 85.2408 20.5398 C85.5855 20.7784 85.8696 21.0852 86.093 21.4602 C86.3165 21.8352 86.4283 22.2955 86.4283 22.8409 C86.4283 23.4697 86.2635 24.0379 85.934 24.5455 C85.6082 25.053 85.1309 25.4564 84.5021 25.7557 C83.8771 26.0549 83.1177 26.2045 82.2237 26.2045 C81.3904 26.2045 80.6688 26.0701 80.059 25.8011 C79.4529 25.5322 78.9756 25.1572 78.6271 24.6761 C78.2824 24.1951 78.0874 23.6364 78.0419 23 L79.4965 23 C79.5343 23.4394 79.6821 23.803 79.9396 24.0909 C80.201 24.375 80.5305 24.5871 80.9283 24.7273 C81.3298 24.8636 81.7616 24.9318 82.2237 24.9318 C82.7616 24.9318 83.2446 24.8447 83.6726 24.6705 C84.1006 24.4924 84.4396 24.2462 84.6896 23.9318 C84.9396 23.6136 85.0646 23.2424 85.0646 22.8182 C85.0646 22.4318 84.9567 22.1174 84.7408 21.875 C84.5249 21.6326 84.2408 21.4356 83.8885 21.2841 C83.5362 21.1326 83.1555 21 82.7465 20.8864 L81.3146 20.4773 C80.4055 20.2159 79.6858 19.8428 79.1555 19.358 C78.6252 18.8731 78.3601 18.2386 78.3601 17.4545 C78.3601 16.803 78.5362 16.2348 78.8885 15.75 C79.2446 15.2614 79.7218 14.8826 80.3203 14.6136 C80.9226 14.3409 81.5949 14.2045 82.3374 14.2045 C83.0874 14.2045 83.754 14.339 84.3374 14.608 C84.9207 14.8731 85.3828 15.2367 85.7237 15.6989 C86.0684 16.161 86.2502 16.6856 86.2692 17.2727 L84.9055 17.2727 Z M90.1541 14.3636 L90.1541 26 L88.745 26 L88.745 14.3636 L90.1541 14.3636 Z M96.5703 26 L92.9794 26 L92.9794 14.3636 L96.7294 14.3636 C97.8582 14.3636 98.8241 14.5966 99.6271 15.0625 C100.43 15.5246 101.046 16.1894 101.474 17.0568 C101.902 17.9205 102.116 18.9545 102.116 20.1591 C102.116 21.3712 101.9 22.4148 101.468 23.2898 C101.036 24.161 100.407 24.8314 99.5817 25.3011 C98.7559 25.767 97.7521 26 96.5703 26 Z M94.3885 24.75 L96.4794 24.75 C97.4415 24.75 98.2389 24.5644 98.8715 24.1932 C99.504 23.822 99.9756 23.2936 100.286 22.608 C100.597 21.9223 100.752 21.1061 100.752 20.1591 C100.752 19.2197 100.599 18.411 100.292 17.733 C99.9851 17.0511 99.5267 16.5284 98.9169 16.1648 C98.3071 15.7973 97.5476 15.6136 96.6385 15.6136 L94.3885 15.6136 L94.3885 24.75 Z"
+                      }
+                    ],
+                    "layoutGrow": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutPositioning": "AUTO",
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "maskType": "ALPHA",
+                    "effects": [],
+                    "characters": "SSID",
+                    "textAlignHorizontal": "CENTER",
+                    "textAlignVertical": "CENTER",
+                    "textAutoResize": "NONE",
+                    "textTruncation": "DISABLED",
+                    "maxLines": null,
+                    "hangingPunctuation": false,
+                    "hangingList": false,
+                    "listSpacing": 0,
+                    "autoRename": false,
+                    "fontName": {
+                      "family": "Inter",
+                      "style": "Regular"
+                    },
+                    "fontSize": 16,
+                    "fontWeight": 400,
+                    "letterSpacing": {
+                      "value": 0,
+                      "unit": "PERCENT"
+                    },
+                    "lineHeight": {
+                      "unit": "AUTO"
+                    },
+                    "paragraphIndent": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "ORIGINAL",
+                    "textDecoration": "NONE",
+                    "textDecorationStyle": null,
+                    "textDecorationOffset": null,
+                    "textDecorationThickness": null,
+                    "textDecorationColor": null,
+                    "textDecorationSkipInk": null,
+                    "hyperlink": null,
+                    "openTypeFeatures": {},
+                    "leadingTrim": "NONE"
+                  }
+                ]
+              },
+              {
+                "id": "32:68",
+                "name": "Time(24hr):",
+                "type": "TEXT",
+                "visible": true,
+                "locked": false,
+                "width": 135,
+                "height": 40,
+                "x": 0,
+                "y": 50,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    1,
+                    50
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -1984
+                  ],
+                  [
+                    0,
+                    1,
+                    2933
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1984,
+                  "y": 2933,
+                  "width": 135,
+                  "height": 40
+                },
+                "absoluteRenderBounds": {
+                  "x": -1982.5909423828125,
+                  "y": 2947.363525390625,
+                  "width": 75.5838623046875,
+                  "height": 11.841064453125
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.6800000071525574,
+                    "opacity": 0.6800000071525574,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "OUTSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M1.40909 26 L1.40909 14.3636 L5.34091 14.3636 C6.25379 14.3636 7 14.5284 7.57955 14.858 C8.16288 15.1837 8.5947 15.625 8.875 16.1818 C9.1553 16.7386 9.29545 17.3598 9.29545 18.0455 C9.29545 18.7311 9.1553 19.3542 8.875 19.9148 C8.59848 20.4754 8.17045 20.9223 7.59091 21.2557 C7.01136 21.5852 6.26894 21.75 5.36364 21.75 L2.54545 21.75 L2.54545 20.5 L5.31818 20.5 C5.94318 20.5 6.44508 20.392 6.82386 20.1761 C7.20265 19.9602 7.47727 19.6686 7.64773 19.3011 C7.82197 18.9299 7.90909 18.5114 7.90909 18.0455 C7.90909 17.5795 7.82197 17.1629 7.64773 16.7955 C7.47727 16.428 7.20076 16.1402 6.81818 15.9318 C6.43561 15.7197 5.92803 15.6136 5.29545 15.6136 L2.81818 15.6136 L2.81818 26 L1.40909 26 Z M13.9517 26.2045 C13.3987 26.2045 12.8968 26.1004 12.446 25.892 C11.9953 25.6799 11.6373 25.375 11.3722 24.9773 C11.107 24.5758 10.9744 24.0909 10.9744 23.5227 C10.9744 23.0227 11.0729 22.6174 11.2699 22.3068 C11.4669 21.9924 11.7301 21.7462 12.0597 21.5682 C12.3892 21.3902 12.7528 21.2576 13.1506 21.1705 C13.5521 21.0795 13.9555 21.0076 14.3608 20.9545 C14.8911 20.8864 15.321 20.8352 15.6506 20.8011 C15.9839 20.7633 16.2263 20.7008 16.3778 20.6136 C16.5331 20.5265 16.6108 20.375 16.6108 20.1591 L16.6108 20.1136 C16.6108 19.553 16.4574 19.1174 16.1506 18.8068 C15.8475 18.4962 15.3873 18.3409 14.7699 18.3409 C14.1297 18.3409 13.6278 18.4811 13.2642 18.7614 C12.9006 19.0417 12.6449 19.3409 12.4972 19.6591 L11.2244 19.2045 C11.4517 18.6742 11.7547 18.2614 12.1335 17.9659 C12.5161 17.6667 12.9328 17.4583 13.3835 17.3409 C13.8381 17.2197 14.285 17.1591 14.7244 17.1591 C15.0047 17.1591 15.3267 17.1932 15.6903 17.2614 C16.0578 17.3258 16.4119 17.4602 16.7528 17.6648 C17.0975 17.8693 17.3835 18.178 17.6108 18.5909 C17.8381 19.0038 17.9517 19.5568 17.9517 20.25 L17.9517 26 L16.6108 26 L16.6108 24.8182 L16.5426 24.8182 C16.4517 25.0076 16.3002 25.2102 16.0881 25.4261 C15.8759 25.642 15.5938 25.8258 15.2415 25.9773 C14.8892 26.1288 14.4593 26.2045 13.9517 26.2045 Z M14.1562 25 C14.6866 25 15.1335 24.8958 15.4972 24.6875 C15.8646 24.4792 16.1411 24.2102 16.3267 23.8807 C16.5161 23.5511 16.6108 23.2045 16.6108 22.8409 L16.6108 21.6136 C16.554 21.6818 16.429 21.7443 16.2358 21.8011 C16.0464 21.8542 15.8267 21.9015 15.5767 21.9432 C15.3305 21.9811 15.09 22.0152 14.8551 22.0455 C14.6241 22.072 14.4366 22.0947 14.2926 22.1136 C13.9441 22.1591 13.6184 22.233 13.3153 22.3352 C13.0161 22.4337 12.7737 22.5833 12.5881 22.7841 C12.4062 22.9811 12.3153 23.25 12.3153 23.5909 C12.3153 24.0568 12.4877 24.4091 12.8324 24.6477 C13.1809 24.8826 13.6222 25 14.1562 25 Z M26.581 19.2273 L25.3764 19.5682 C25.3007 19.3674 25.1889 19.1723 25.0412 18.983 C24.8973 18.7898 24.7003 18.6307 24.4503 18.5057 C24.2003 18.3807 23.8802 18.3182 23.4901 18.3182 C22.956 18.3182 22.5109 18.4413 22.1548 18.6875 C21.8026 18.9299 21.6264 19.2386 21.6264 19.6136 C21.6264 19.947 21.7476 20.2102 21.9901 20.4034 C22.2325 20.5966 22.6113 20.7576 23.1264 20.8864 L24.4219 21.2045 C25.2022 21.3939 25.7836 21.6837 26.1662 22.0739 C26.5488 22.4602 26.7401 22.9583 26.7401 23.5682 C26.7401 24.0682 26.5961 24.5152 26.3082 24.9091 C26.0241 25.303 25.6264 25.6136 25.1151 25.8409 C24.6037 26.0682 24.009 26.1818 23.331 26.1818 C22.4408 26.1818 21.7041 25.9886 21.1207 25.6023 C20.5374 25.2159 20.1681 24.6515 20.0128 23.9091 L21.2855 23.5909 C21.4067 24.0606 21.6359 24.4129 21.973 24.6477 C22.3139 24.8826 22.759 25 23.3082 25 C23.9332 25 24.4295 24.8674 24.7969 24.6023 C25.1681 24.3333 25.3537 24.0114 25.3537 23.6364 C25.3537 23.3333 25.2476 23.0795 25.0355 22.875 C24.8234 22.6667 24.4976 22.5114 24.0582 22.4091 L22.6037 22.0682 C21.8045 21.8788 21.2173 21.5852 20.8423 21.1875 C20.4711 20.786 20.2855 20.2841 20.2855 19.6818 C20.2855 19.1894 20.4238 18.7538 20.7003 18.375 C20.9806 17.9962 21.3613 17.6989 21.8423 17.483 C22.3272 17.267 22.8764 17.1591 23.4901 17.1591 C24.3537 17.1591 25.0317 17.3485 25.5241 17.7273 C26.0204 18.1061 26.3726 18.6061 26.581 19.2273 Z M34.9403 19.2273 L33.7358 19.5682 C33.66 19.3674 33.5483 19.1723 33.4006 18.983 C33.2566 18.7898 33.0597 18.6307 32.8097 18.5057 C32.5597 18.3807 32.2396 18.3182 31.8494 18.3182 C31.3153 18.3182 30.8703 18.4413 30.5142 18.6875 C30.1619 18.9299 29.9858 19.2386 29.9858 19.6136 C29.9858 19.947 30.107 20.2102 30.3494 20.4034 C30.5919 20.5966 30.9706 20.7576 31.4858 20.8864 L32.7812 21.2045 C33.5616 21.3939 34.143 21.6837 34.5256 22.0739 C34.9081 22.4602 35.0994 22.9583 35.0994 23.5682 C35.0994 24.0682 34.9555 24.5152 34.6676 24.9091 C34.3835 25.303 33.9858 25.6136 33.4744 25.8409 C32.9631 26.0682 32.3684 26.1818 31.6903 26.1818 C30.8002 26.1818 30.0634 25.9886 29.4801 25.6023 C28.8968 25.2159 28.5275 24.6515 28.3722 23.9091 L29.6449 23.5909 C29.7661 24.0606 29.9953 24.4129 30.3324 24.6477 C30.6733 24.8826 31.1184 25 31.6676 25 C32.2926 25 32.7888 24.8674 33.1562 24.6023 C33.5275 24.3333 33.7131 24.0114 33.7131 23.6364 C33.7131 23.3333 33.607 23.0795 33.3949 22.875 C33.1828 22.6667 32.857 22.5114 32.4176 22.4091 L30.9631 22.0682 C30.1638 21.8788 29.5767 21.5852 29.2017 21.1875 C28.8305 20.786 28.6449 20.2841 28.6449 19.6818 C28.6449 19.1894 28.7831 18.7538 29.0597 18.375 C29.34 17.9962 29.7206 17.6989 30.2017 17.483 C30.6866 17.267 31.2358 17.1591 31.8494 17.1591 C32.7131 17.1591 33.3911 17.3485 33.8835 17.7273 C34.3797 18.1061 34.732 18.6061 34.9403 19.2273 Z M39.0952 26 L36.4361 17.2727 L37.8452 17.2727 L39.7315 23.9545 L39.8224 23.9545 L41.6861 17.2727 L43.1179 17.2727 L44.9588 23.9318 L45.0497 23.9318 L46.9361 17.2727 L48.3452 17.2727 L45.6861 26 L44.3679 26 L42.4588 19.2955 L42.3224 19.2955 L40.4134 26 L39.0952 26 Z M53.3665 26.1818 C52.5786 26.1818 51.8873 25.9943 51.2926 25.6193 C50.7017 25.2443 50.2396 24.7197 49.9062 24.0455 C49.5767 23.3712 49.4119 22.5833 49.4119 21.6818 C49.4119 20.7727 49.5767 19.9792 49.9062 19.3011 C50.2396 18.6231 50.7017 18.0966 51.2926 17.7216 C51.8873 17.3466 52.5786 17.1591 53.3665 17.1591 C54.1544 17.1591 54.8438 17.3466 55.4347 17.7216 C56.0294 18.0966 56.4915 18.6231 56.821 19.3011 C57.1544 19.9792 57.321 20.7727 57.321 21.6818 C57.321 22.5833 57.1544 23.3712 56.821 24.0455 C56.4915 24.7197 56.0294 25.2443 55.4347 25.6193 C54.8438 25.9943 54.1544 26.1818 53.3665 26.1818 Z M53.3665 24.9773 C53.965 24.9773 54.4574 24.8239 54.8438 24.517 C55.2301 24.2102 55.5161 23.8068 55.7017 23.3068 C55.8873 22.8068 55.9801 22.2652 55.9801 21.6818 C55.9801 21.0985 55.8873 20.5549 55.7017 20.0511 C55.5161 19.5473 55.2301 19.1402 54.8438 18.8295 C54.4574 18.5189 53.965 18.3636 53.3665 18.3636 C52.768 18.3636 52.2756 18.5189 51.8892 18.8295 C51.5028 19.1402 51.2169 19.5473 51.0312 20.0511 C50.8456 20.5549 50.7528 21.0985 50.7528 21.6818 C50.7528 22.2652 50.8456 22.8068 51.0312 23.3068 C51.2169 23.8068 51.5028 24.2102 51.8892 24.517 C52.2756 24.8239 52.768 24.9773 53.3665 24.9773 Z M59.3679 26 L59.3679 17.2727 L60.6634 17.2727 L60.6634 18.5909 L60.7543 18.5909 C60.9134 18.1591 61.2012 17.8087 61.6179 17.5398 C62.0346 17.2708 62.5043 17.1364 63.027 17.1364 C63.1255 17.1364 63.2486 17.1383 63.3963 17.142 C63.544 17.1458 63.6558 17.1515 63.7315 17.1591 L63.7315 18.5227 C63.6861 18.5114 63.5819 18.4943 63.419 18.4716 C63.2599 18.4451 63.0914 18.4318 62.9134 18.4318 C62.4891 18.4318 62.1103 18.5208 61.777 18.6989 C61.4474 18.8731 61.1861 19.1155 60.9929 19.4261 C60.8035 19.733 60.7088 20.0833 60.7088 20.4773 L60.7088 26 L59.3679 26 Z M68.3509 26.1818 C67.6236 26.1818 66.9815 25.9981 66.4247 25.6307 C65.8679 25.2595 65.4323 24.7367 65.1179 24.0625 C64.8035 23.3845 64.6463 22.5833 64.6463 21.6591 C64.6463 20.7424 64.8035 19.947 65.1179 19.2727 C65.4323 18.5985 65.8698 18.0777 66.4304 17.7102 C66.991 17.3428 67.6387 17.1591 68.3736 17.1591 C68.9418 17.1591 69.3906 17.2538 69.7202 17.4432 C70.0535 17.6288 70.3073 17.8409 70.4815 18.0795 C70.6596 18.3144 70.7978 18.5076 70.8963 18.6591 L71.0099 18.6591 L71.0099 14.3636 L72.3509 14.3636 L72.3509 26 L71.0554 26 L71.0554 24.6591 L70.8963 24.6591 C70.7978 24.8182 70.6577 25.0189 70.4759 25.2614 C70.294 25.5 70.0346 25.714 69.6974 25.9034 C69.3603 26.089 68.9115 26.1818 68.3509 26.1818 Z M68.5327 24.9773 C69.0705 24.9773 69.5251 24.8371 69.8963 24.5568 C70.2675 24.2727 70.5497 23.8807 70.7429 23.3807 C70.9361 22.8769 71.0327 22.2955 71.0327 21.6364 C71.0327 20.9848 70.938 20.4148 70.7486 19.9261 C70.5592 19.4337 70.2789 19.0511 69.9077 18.7784 C69.5365 18.5019 69.0781 18.3636 68.5327 18.3636 C67.9645 18.3636 67.491 18.5095 67.1122 18.8011 C66.7372 19.089 66.455 19.4811 66.2656 19.9773 C66.08 20.4697 65.9872 21.0227 65.9872 21.6364 C65.9872 22.2576 66.0819 22.822 66.2713 23.3295 C66.4645 23.8333 66.7486 24.2348 67.1236 24.5341 C67.5024 24.8295 67.9721 24.9773 68.5327 24.9773 Z M75.9702 26.0909 C75.6899 26.0909 75.4493 25.9905 75.2486 25.7898 C75.0478 25.589 74.9474 25.3485 74.9474 25.0682 C74.9474 24.7879 75.0478 24.5473 75.2486 24.3466 C75.4493 24.1458 75.6899 24.0455 75.9702 24.0455 C76.2505 24.0455 76.491 24.1458 76.6918 24.3466 C76.8925 24.5473 76.9929 24.7879 76.9929 25.0682 C76.9929 25.2538 76.9455 25.4242 76.8509 25.5795 C76.7599 25.7348 76.6368 25.8598 76.4815 25.9545 C76.33 26.0455 76.1596 26.0909 75.9702 26.0909 Z M75.9702 19.6136 C75.6899 19.6136 75.4493 19.5133 75.2486 19.3125 C75.0478 19.1117 74.9474 18.8712 74.9474 18.5909 C74.9474 18.3106 75.0478 18.0701 75.2486 17.8693 C75.4493 17.6686 75.6899 17.5682 75.9702 17.5682 C76.2505 17.5682 76.491 17.6686 76.6918 17.8693 C76.8925 18.0701 76.9929 18.3106 76.9929 18.5909 C76.9929 18.7765 76.9455 18.947 76.8509 19.1023 C76.7599 19.2576 76.6368 19.3826 76.4815 19.4773 C76.33 19.5682 76.1596 19.6136 75.9702 19.6136 Z"
+                  }
+                ],
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "characters": "Password: ",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "CENTER",
+                "textAutoResize": "NONE",
+                "textTruncation": "DISABLED",
+                "maxLines": null,
+                "hangingPunctuation": false,
+                "hangingList": false,
+                "listSpacing": 0,
+                "autoRename": false,
+                "fontName": {
+                  "family": "Inter",
+                  "style": "Regular"
+                },
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": {
+                  "value": 0,
+                  "unit": "PERCENT"
+                },
+                "lineHeight": {
+                  "unit": "AUTO"
+                },
+                "paragraphIndent": 0,
+                "paragraphSpacing": 0,
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE",
+                "textDecorationStyle": null,
+                "textDecorationOffset": null,
+                "textDecorationThickness": null,
+                "textDecorationColor": null,
+                "textDecorationSkipInk": null,
+                "hyperlink": null,
+                "openTypeFeatures": {},
+                "leadingTrim": "NONE"
+              },
+              {
+                "id": "32:69",
+                "name": "15 button",
+                "type": "FRAME",
+                "visible": true,
+                "locked": false,
+                "width": 170,
+                "height": 40,
+                "x": 140,
+                "y": 50,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    140
+                  ],
+                  [
+                    0,
+                    1,
+                    50
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -1844
+                  ],
+                  [
+                    0,
+                    1,
+                    2933
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1844,
+                  "y": 2933,
+                  "width": 170,
+                  "height": 40
+                },
+                "absoluteRenderBounds": {
+                  "x": -1844,
+                  "y": 2933,
+                  "width": 170,
+                  "height": 40
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.9803921580314636,
+                    "g": 0.9803921580314636,
+                    "b": 0.9803921580314636,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "INSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M0 3 C0 1.34315 1.34315 0 3 0 L167 0 C168.657 0 170 1.34315 170 3 L170 37 C170 38.6569 168.657 40 167 40 L3.00001 40 C1.34315 40 0 38.6569 0 37 L0 3 Z"
+                  }
+                ],
+                "cornerRadius": 3,
+                "cornerSmoothing": 0,
+                "layoutMode": "NONE",
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "primaryAxisAlignItems": "MIN",
+                "counterAxisAlignItems": "MIN",
+                "counterAxisAlignContent": "AUTO",
+                "itemSpacing": 0,
+                "counterAxisSpacing": 0,
+                "layoutWrap": "NO_WRAP",
+                "primaryAxisSizingMode": "AUTO",
+                "counterAxisSizingMode": "FIXED",
+                "itemReverseZIndex": false,
+                "strokesIncludedInLayout": false,
+                "clipsContent": true,
+                "inferredAutoLayout": {
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "primaryAxisAlignItems": "CENTER",
+                  "counterAxisAlignItems": "CENTER",
+                  "primaryAxisSizingMode": "FIXED",
+                  "counterAxisSizingMode": "FIXED",
+                  "itemSpacing": 0
+                },
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "devStatus": null,
+                "children": [
+                  {
+                    "id": "32:70",
+                    "name": "15",
+                    "type": "TEXT",
+                    "visible": true,
+                    "locked": false,
+                    "width": 170,
+                    "height": 40,
+                    "x": 0,
+                    "y": 0,
+                    "rotation": 0,
+                    "minWidth": null,
+                    "maxWidth": null,
+                    "minHeight": null,
+                    "maxHeight": null,
+                    "layoutSizingHorizontal": "FIXED",
+                    "layoutSizingVertical": "FIXED",
+                    "relativeTransform": [
+                      [
+                        1,
+                        0,
+                        0
+                      ],
+                      [
+                        0,
+                        1,
+                        0
+                      ]
+                    ],
+                    "absoluteTransform": [
+                      [
+                        1,
+                        0,
+                        -1844
+                      ],
+                      [
+                        0,
+                        1,
+                        2933
+                      ]
+                    ],
+                    "absoluteBoundingBox": {
+                      "x": -1844,
+                      "y": 2933,
+                      "width": 170,
+                      "height": 40
+                    },
+                    "absoluteRenderBounds": {
+                      "x": -1770.2628173828125,
+                      "y": 2947.363525390625,
+                      "width": 23.588134765625,
+                      "height": 11.636474609375
+                    },
+                    "targetAspectRatio": null,
+                    "constraints": {
+                      "horizontal": "MIN",
+                      "vertical": "MIN"
+                    },
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 0.6800000071525574,
+                        "opacity": 0.6800000071525574,
+                        "blendMode": "NORMAL"
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1,
+                    "strokeAlign": "OUTSIDE",
+                    "strokeJoin": "MITER",
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "dashPattern": [],
+                    "fillGeometry": [
+                      {
+                        "windingRule": "NONZERO",
+                        "data": "M73.7372 26 L73.7372 14.3636 L77.669 14.3636 C78.5819 14.3636 79.3281 14.5284 79.9077 14.858 C80.491 15.1837 80.9228 15.625 81.2031 16.1818 C81.4834 16.7386 81.6236 17.3598 81.6236 18.0455 C81.6236 18.7311 81.4834 19.3542 81.2031 19.9148 C80.9266 20.4754 80.4986 20.9223 79.919 21.2557 C79.3395 21.5852 78.5971 21.75 77.6918 21.75 L74.8736 21.75 L74.8736 20.5 L77.6463 20.5 C78.2713 20.5 78.7732 20.392 79.152 20.1761 C79.5308 19.9602 79.8054 19.6686 79.9759 19.3011 C80.1501 18.9299 80.2372 18.5114 80.2372 18.0455 C80.2372 17.5795 80.1501 17.1629 79.9759 16.7955 C79.8054 16.428 79.5289 16.1402 79.1463 15.9318 C78.7637 15.7197 78.2562 15.6136 77.6236 15.6136 L75.1463 15.6136 L75.1463 26 L73.7372 26 Z M86.0071 26 L82.8253 14.3636 L84.2571 14.3636 L86.6889 23.8409 L86.8026 23.8409 L89.2798 14.3636 L90.8707 14.3636 L93.348 23.8409 L93.4616 23.8409 L95.8935 14.3636 L97.3253 14.3636 L94.1435 26 L92.6889 26 L90.1207 16.7273 L90.0298 16.7273 L87.4616 26 L86.0071 26 Z"
+                      }
+                    ],
+                    "layoutGrow": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutPositioning": "AUTO",
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "maskType": "ALPHA",
+                    "effects": [],
+                    "characters": "PW ",
+                    "textAlignHorizontal": "CENTER",
+                    "textAlignVertical": "CENTER",
+                    "textAutoResize": "NONE",
+                    "textTruncation": "DISABLED",
+                    "maxLines": null,
+                    "hangingPunctuation": false,
+                    "hangingList": false,
+                    "listSpacing": 0,
+                    "autoRename": false,
+                    "fontName": {
+                      "family": "Inter",
+                      "style": "Regular"
+                    },
+                    "fontSize": 16,
+                    "fontWeight": 400,
+                    "letterSpacing": {
+                      "value": 0,
+                      "unit": "PERCENT"
+                    },
+                    "lineHeight": {
+                      "unit": "AUTO"
+                    },
+                    "paragraphIndent": 0,
+                    "paragraphSpacing": 0,
+                    "textCase": "ORIGINAL",
+                    "textDecoration": "NONE",
+                    "textDecorationStyle": null,
+                    "textDecorationOffset": null,
+                    "textDecorationThickness": null,
+                    "textDecorationColor": null,
+                    "textDecorationSkipInk": null,
+                    "hyperlink": null,
+                    "openTypeFeatures": {},
+                    "leadingTrim": "NONE"
+                  }
+                ]
+              },
+              {
+                "id": "32:72",
+                "name": "Jakarta",
+                "type": "TEXT",
+                "visible": true,
+                "locked": false,
+                "width": 170,
+                "height": 40,
+                "x": 140,
+                "y": 105,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    140
+                  ],
+                  [
+                    0,
+                    1,
+                    105
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -1844
+                  ],
+                  [
+                    0,
+                    1,
+                    2988
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1844,
+                  "y": 2988,
+                  "width": 170,
+                  "height": 40
+                },
+                "absoluteRenderBounds": {
+                  "x": -1799.696044921875,
+                  "y": 3002.20458984375,
+                  "width": 82.0909423828125,
+                  "height": 11.977294921875
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0.20000000298023224,
+                    "g": 0.46666666865348816,
+                    "b": 0.7137255072593689,
+                    "a": 1,
+                    "opacity": 1,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "OUTSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M54.7699 18 L53.3835 18 C53.3684 17.5947 53.285 17.2386 53.1335 16.9318 C52.982 16.625 52.7775 16.3674 52.5199 16.1591 C52.2661 15.947 51.9744 15.7879 51.6449 15.6818 C51.3153 15.5758 50.9631 15.5227 50.5881 15.5227 C49.8684 15.5227 49.1866 15.7064 48.5426 16.0739 C47.8987 16.4375 47.3475 16.9735 46.8892 17.6818 C46.4309 18.3864 46.1184 19.25 45.9517 20.2727 C45.785 21.2652 45.8097 22.1004 46.0256 22.7784 C46.2415 23.4564 46.5994 23.9697 47.0994 24.3182 C47.5994 24.6667 48.1941 24.8409 48.8835 24.8409 C49.2812 24.8409 49.6714 24.7879 50.054 24.6818 C50.4403 24.5758 50.8002 24.4186 51.1335 24.2102 C51.4706 23.9981 51.7699 23.7386 52.0312 23.4318 C52.2964 23.1212 52.5047 22.7652 52.6562 22.3636 L54.0653 22.3636 C53.857 22.9583 53.5748 23.4905 53.2188 23.9602 C52.8665 24.4299 52.4593 24.8295 51.9972 25.1591 C51.535 25.4848 51.0369 25.733 50.5028 25.9034 C49.9688 26.0739 49.4138 26.1591 48.8381 26.1591 C47.8305 26.1591 46.9725 25.9129 46.2642 25.4205 C45.5597 24.9242 45.0559 24.2235 44.7528 23.3182 C44.4536 22.4091 44.4062 21.3333 44.6108 20.0909 C44.8153 18.8788 45.2074 17.8333 45.7869 16.9545 C46.3665 16.072 47.0767 15.3939 47.9176 14.9205 C48.7585 14.4432 49.6714 14.2045 50.6562 14.2045 C51.2472 14.2045 51.7907 14.2898 52.2869 14.4602 C52.7831 14.6307 53.215 14.8807 53.5824 15.2102 C53.9498 15.536 54.2358 15.9337 54.4403 16.4034 C54.6487 16.8693 54.7585 17.4015 54.7699 18 Z M59.1491 26.1818 C58.3461 26.1818 57.6738 25.9905 57.1321 25.608 C56.5904 25.2254 56.2079 24.6894 55.9844 24 C55.7647 23.3106 55.7287 22.5076 55.8764 21.5909 C56.0204 20.697 56.3063 19.9186 56.7344 19.2557 C57.1662 18.589 57.7022 18.0739 58.3423 17.7102 C58.9863 17.3428 59.6946 17.1591 60.4673 17.1591 C61.2704 17.1591 61.9408 17.3523 62.4787 17.7386 C63.0204 18.1212 63.4029 18.6591 63.6264 19.3523 C63.8499 20.0417 63.8878 20.8485 63.7401 21.7727 C63.5961 22.6591 63.3063 23.4337 62.8707 24.0966 C62.4389 24.7557 61.9029 25.2689 61.2628 25.6364 C60.6264 26 59.9219 26.1818 59.1491 26.1818 Z M59.1719 24.9773 C59.7855 24.9773 60.3177 24.8201 60.7685 24.5057 C61.223 24.1913 61.5904 23.7765 61.8707 23.2614 C62.1548 22.7462 62.3461 22.1894 62.4446 21.5909 C62.5355 21.0227 62.5317 20.4943 62.4332 20.0057 C62.3348 19.5133 62.1245 19.1174 61.8026 18.8182 C61.4806 18.5152 61.0279 18.3636 60.4446 18.3636 C59.831 18.3636 59.295 18.5227 58.8366 18.8409 C58.3821 19.1591 58.0147 19.5777 57.7344 20.0966 C57.4541 20.6155 57.2666 21.1742 57.1719 21.7727 C57.081 22.3409 57.0829 22.8693 57.1776 23.358 C57.276 23.8428 57.4863 24.2348 57.8082 24.5341 C58.134 24.8295 58.5885 24.9773 59.1719 24.9773 Z M67.2983 20.75 L66.4347 26 L65.0938 26 L66.5483 17.2727 L67.8438 17.2727 L67.6165 18.6364 L67.7301 18.6364 C68.0028 18.1932 68.3722 17.8371 68.8381 17.5682 C69.304 17.2955 69.8665 17.1591 70.5256 17.1591 C71.1089 17.1591 71.6013 17.2803 72.0028 17.5227 C72.4081 17.7614 72.6941 18.125 72.8608 18.6136 C73.0312 19.0985 73.0559 19.7121 72.9347 20.4545 L72.0028 26 L70.6619 26 L71.571 20.5455 C71.6847 19.8636 71.5956 19.3295 71.304 18.9432 C71.0161 18.5568 70.5597 18.3636 69.9347 18.3636 C69.5028 18.3636 69.1032 18.4564 68.7358 18.642 C68.3722 18.8277 68.0634 19.0985 67.8097 19.4545 C67.5597 19.8106 67.3892 20.2424 67.2983 20.75 Z M76.6577 20.75 L75.794 26 L74.4531 26 L75.9077 17.2727 L77.2031 17.2727 L76.9759 18.6364 L77.0895 18.6364 C77.3622 18.1932 77.7315 17.8371 78.1974 17.5682 C78.6634 17.2955 79.2259 17.1591 79.8849 17.1591 C80.4683 17.1591 80.9607 17.2803 81.3622 17.5227 C81.7675 17.7614 82.0535 18.125 82.2202 18.6136 C82.3906 19.0985 82.4152 19.7121 82.294 20.4545 L81.3622 26 L80.0213 26 L80.9304 20.5455 C81.044 19.8636 80.955 19.3295 80.6634 18.9432 C80.3755 18.5568 79.919 18.3636 79.294 18.3636 C78.8622 18.3636 78.4626 18.4564 78.0952 18.642 C77.7315 18.8277 77.4228 19.0985 77.169 19.4545 C76.919 19.8106 76.7486 20.2424 76.6577 20.75 Z M87.4489 26.1818 C86.6117 26.1818 85.9205 25.9962 85.375 25.625 C84.8295 25.25 84.4489 24.7273 84.233 24.0568 C84.017 23.3826 83.983 22.5985 84.1307 21.7045 C84.2784 20.8106 84.572 20.0227 85.0114 19.3409 C85.4508 18.6553 85.9981 18.1212 86.6534 17.7386 C87.3087 17.3523 88.0284 17.1591 88.8125 17.1591 C89.267 17.1591 89.7045 17.2348 90.125 17.3864 C90.5455 17.5379 90.9091 17.7841 91.2159 18.125 C91.5227 18.4621 91.7367 18.9091 91.858 19.4659 C91.9792 20.0227 91.9716 20.7083 91.8352 21.5227 L91.7443 22.0909 L85.017 22.0909 L85.1989 20.9318 L90.5625 20.9318 C90.6496 20.4394 90.6269 20 90.4943 19.6136 C90.3655 19.2273 90.1402 18.9223 89.8182 18.6989 C89.5 18.4754 89.0966 18.3636 88.608 18.3636 C88.1042 18.3636 87.6345 18.5 87.1989 18.7727 C86.7633 19.0417 86.3996 19.3826 86.108 19.7955 C85.8163 20.2045 85.6345 20.6212 85.5625 21.0455 L85.4034 22.0455 C85.2898 22.7689 85.3068 23.3447 85.4545 23.7727 C85.6061 24.2008 85.8693 24.5095 86.2443 24.6989 C86.6193 24.8845 87.089 24.9773 87.6534 24.9773 C88.0133 24.9773 88.3447 24.928 88.6477 24.8295 C88.9508 24.7273 89.2216 24.5758 89.4602 24.375 C89.6989 24.1705 89.8996 23.9167 90.0625 23.6136 L91.2898 23.9773 C91.0814 24.4167 90.7879 24.803 90.4091 25.1364 C90.0341 25.4659 89.5947 25.7235 89.0909 25.9091 C88.5909 26.0909 88.0436 26.1818 87.4489 26.1818 Z M96.679 26.1818 C95.857 26.1818 95.1828 25.9886 94.6562 25.6023 C94.1335 25.2159 93.7699 24.6837 93.5653 24.0057 C93.3608 23.3277 93.3305 22.553 93.4744 21.6818 C93.6184 20.7955 93.91 20.0133 94.3494 19.3352 C94.7888 18.6534 95.3362 18.1212 95.9915 17.7386 C96.6468 17.3523 97.3684 17.1591 98.1562 17.1591 C98.7699 17.1591 99.304 17.2727 99.7585 17.5 C100.213 17.7273 100.563 18.0455 100.81 18.4545 C101.056 18.8636 101.171 19.3409 101.156 19.8864 L99.8153 19.8864 C99.7775 19.4886 99.607 19.1364 99.304 18.8295 C99.0047 18.5189 98.5616 18.3636 97.9744 18.3636 C97.4517 18.3636 96.9706 18.5 96.5312 18.7727 C96.0919 19.0417 95.7225 19.4223 95.4233 19.9148 C95.1241 20.4034 94.9214 20.9773 94.8153 21.6364 C94.7017 22.3106 94.7112 22.8977 94.8438 23.3977 C94.9763 23.8977 95.2169 24.286 95.5653 24.5625 C95.9138 24.839 96.3532 24.9773 96.8835 24.9773 C97.232 24.9773 97.5578 24.9167 97.8608 24.7955 C98.1638 24.6742 98.4328 24.5 98.6676 24.2727 C98.9025 24.0455 99.0881 23.7727 99.2244 23.4545 L100.565 23.4545 C100.399 23.9697 100.132 24.4337 99.7642 24.8466 C99.3968 25.2557 98.9517 25.5814 98.429 25.8239 C97.9062 26.0625 97.3229 26.1818 96.679 26.1818 Z M107.344 17.2727 L107.162 18.4091 L102.639 18.4091 L102.821 17.2727 L107.344 17.2727 Z M104.48 15.1818 L105.821 15.1818 L104.435 23.5 C104.374 23.8788 104.384 24.1629 104.463 24.3523 C104.546 24.5379 104.671 24.6629 104.838 24.7273 C105.009 24.7879 105.192 24.8182 105.389 24.8182 C105.537 24.8182 105.658 24.8106 105.753 24.7955 C105.848 24.7765 105.923 24.7614 105.98 24.75 L106.071 25.9545 C105.969 25.9886 105.83 26.0227 105.656 26.0568 C105.486 26.0947 105.276 26.1136 105.026 26.1136 C104.647 26.1136 104.291 26.0322 103.957 25.8693 C103.624 25.7064 103.368 25.4583 103.19 25.125 C103.012 24.7917 102.965 24.3712 103.048 23.8636 L104.48 15.1818 Z M111.449 26.1818 C110.612 26.1818 109.92 25.9962 109.375 25.625 C108.83 25.25 108.449 24.7273 108.233 24.0568 C108.017 23.3826 107.983 22.5985 108.131 21.7045 C108.278 20.8106 108.572 20.0227 109.011 19.3409 C109.451 18.6553 109.998 18.1212 110.653 17.7386 C111.309 17.3523 112.028 17.1591 112.812 17.1591 C113.267 17.1591 113.705 17.2348 114.125 17.3864 C114.545 17.5379 114.909 17.7841 115.216 18.125 C115.523 18.4621 115.737 18.9091 115.858 19.4659 C115.979 20.0227 115.972 20.7083 115.835 21.5227 L115.744 22.0909 L109.017 22.0909 L109.199 20.9318 L114.562 20.9318 C114.65 20.4394 114.627 20 114.494 19.6136 C114.366 19.2273 114.14 18.9223 113.818 18.6989 C113.5 18.4754 113.097 18.3636 112.608 18.3636 C112.104 18.3636 111.634 18.5 111.199 18.7727 C110.763 19.0417 110.4 19.3826 110.108 19.7955 C109.816 20.2045 109.634 20.6212 109.562 21.0455 L109.403 22.0455 C109.29 22.7689 109.307 23.3447 109.455 23.7727 C109.606 24.2008 109.869 24.5095 110.244 24.6989 C110.619 24.8845 111.089 24.9773 111.653 24.9773 C112.013 24.9773 112.345 24.928 112.648 24.8295 C112.951 24.7273 113.222 24.5758 113.46 24.375 C113.699 24.1705 113.9 23.9167 114.062 23.6136 L115.29 23.9773 C115.081 24.4167 114.788 24.803 114.409 25.1364 C114.034 25.4659 113.595 25.7235 113.091 25.9091 C112.591 26.0909 112.044 26.1818 111.449 26.1818 Z M120.44 26.1818 C119.709 26.1818 119.096 25.9981 118.599 25.6307 C118.103 25.2595 117.753 24.7367 117.548 24.0625 C117.348 23.3845 117.323 22.5833 117.474 21.6591 C117.63 20.7424 117.92 19.947 118.344 19.2727 C118.772 18.5985 119.296 18.0777 119.918 17.7102 C120.539 17.3428 121.217 17.1591 121.952 17.1591 C122.52 17.1591 122.954 17.2538 123.253 17.4432 C123.556 17.6288 123.776 17.8409 123.912 18.0795 C124.048 18.3144 124.152 18.5076 124.224 18.6591 L124.338 18.6591 L125.054 14.3636 L126.395 14.3636 L124.463 26 L123.168 26 L123.395 24.6591 L123.236 24.6591 C123.111 24.8182 122.937 25.0189 122.713 25.2614 C122.49 25.5 122.194 25.714 121.827 25.9034 C121.463 26.089 121.001 26.1818 120.44 26.1818 Z M120.77 24.9773 C121.308 24.9773 121.789 24.8371 122.213 24.5568 C122.641 24.2727 122.997 23.8807 123.281 23.3807 C123.565 22.8769 123.762 22.2955 123.872 21.6364 C123.982 20.9848 123.978 20.4148 123.861 19.9261 C123.743 19.4337 123.518 19.0511 123.185 18.7784 C122.851 18.5019 122.41 18.3636 121.861 18.3636 C121.296 18.3636 120.806 18.5095 120.389 18.8011 C119.973 19.089 119.634 19.4811 119.372 19.9773 C119.111 20.4697 118.929 21.0227 118.827 21.6364 C118.724 22.2576 118.723 22.822 118.821 23.3295 C118.92 23.8333 119.128 24.2348 119.446 24.5341 C119.768 24.8295 120.209 24.9773 120.77 24.9773 Z"
+                  }
+                ],
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "characters": "Connected",
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "CENTER",
+                "textAutoResize": "NONE",
+                "textTruncation": "DISABLED",
+                "maxLines": null,
+                "hangingPunctuation": false,
+                "hangingList": false,
+                "listSpacing": 0,
+                "autoRename": false,
+                "fontName": {
+                  "family": "Inter",
+                  "style": "Italic"
+                },
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": {
+                  "value": 0,
+                  "unit": "PERCENT"
+                },
+                "lineHeight": {
+                  "unit": "AUTO"
+                },
+                "paragraphIndent": 0,
+                "paragraphSpacing": 0,
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE",
+                "textDecorationStyle": null,
+                "textDecorationOffset": null,
+                "textDecorationThickness": null,
+                "textDecorationColor": null,
+                "textDecorationSkipInk": null,
+                "hyperlink": null,
+                "openTypeFeatures": {},
+                "leadingTrim": "NONE"
+              },
+              {
+                "id": "32:73",
+                "name": "Location",
+                "type": "TEXT",
+                "visible": true,
+                "locked": false,
+                "width": 135,
+                "height": 40,
+                "x": 0,
+                "y": 105,
+                "rotation": 0,
+                "minWidth": null,
+                "maxWidth": null,
+                "minHeight": null,
+                "maxHeight": null,
+                "layoutSizingHorizontal": "FIXED",
+                "layoutSizingVertical": "FIXED",
+                "relativeTransform": [
+                  [
+                    1,
+                    0,
+                    0
+                  ],
+                  [
+                    0,
+                    1,
+                    105
+                  ]
+                ],
+                "absoluteTransform": [
+                  [
+                    1,
+                    0,
+                    -1984
+                  ],
+                  [
+                    0,
+                    1,
+                    2988
+                  ]
+                ],
+                "absoluteBoundingBox": {
+                  "x": -1984,
+                  "y": 2988,
+                  "width": 135,
+                  "height": 40
+                },
+                "absoluteRenderBounds": {
+                  "x": -1983.0909423828125,
+                  "y": 3002.20458984375,
+                  "width": 50.8182373046875,
+                  "height": 12
+                },
+                "targetAspectRatio": null,
+                "constraints": {
+                  "horizontal": "MIN",
+                  "vertical": "MIN"
+                },
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.6800000071525574,
+                    "opacity": 0.6800000071525574,
+                    "blendMode": "NORMAL"
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1,
+                "strokeAlign": "OUTSIDE",
+                "strokeJoin": "MITER",
+                "strokeCap": "NONE",
+                "strokeMiterLimit": 4,
+                "dashPattern": [],
+                "fillGeometry": [
+                  {
+                    "windingRule": "NONZERO",
+                    "data": "M7.77273 17.2727 C7.70455 16.697 7.42803 16.25 6.94318 15.9318 C6.45833 15.6136 5.86364 15.4545 5.15909 15.4545 C4.64394 15.4545 4.19318 15.5379 3.80682 15.7045 C3.42424 15.8712 3.125 16.1004 2.90909 16.392 C2.69697 16.6837 2.59091 17.0152 2.59091 17.3864 C2.59091 17.697 2.66477 17.964 2.8125 18.1875 C2.96402 18.4072 3.1572 18.5909 3.39205 18.7386 C3.62689 18.8826 3.87311 19.0019 4.13068 19.0966 C4.38826 19.1875 4.625 19.2614 4.84091 19.3182 L6.02273 19.6364 C6.32576 19.7159 6.66288 19.8258 7.03409 19.9659 C7.40909 20.1061 7.76705 20.2973 8.10795 20.5398 C8.45265 20.7784 8.73674 21.0852 8.96023 21.4602 C9.18371 21.8352 9.29545 22.2955 9.29545 22.8409 C9.29545 23.4697 9.13068 24.0379 8.80114 24.5455 C8.47538 25.053 7.99811 25.4564 7.36932 25.7557 C6.74432 26.0549 5.98485 26.2045 5.09091 26.2045 C4.25758 26.2045 3.53598 26.0701 2.92614 25.8011 C2.32008 25.5322 1.8428 25.1572 1.49432 24.6761 C1.14962 24.1951 0.954545 23.6364 0.909091 23 L2.36364 23 C2.40152 23.4394 2.54924 23.803 2.80682 24.0909 C3.06818 24.375 3.39773 24.5871 3.79545 24.7273 C4.19697 24.8636 4.62879 24.9318 5.09091 24.9318 C5.62879 24.9318 6.11174 24.8447 6.53977 24.6705 C6.9678 24.4924 7.30682 24.2462 7.55682 23.9318 C7.80682 23.6136 7.93182 23.2424 7.93182 22.8182 C7.93182 22.4318 7.82386 22.1174 7.60795 21.875 C7.39205 21.6326 7.10795 21.4356 6.75568 21.2841 C6.40341 21.1326 6.02273 21 5.61364 20.8864 L4.18182 20.4773 C3.27273 20.2159 2.55303 19.8428 2.02273 19.358 C1.49242 18.8731 1.22727 18.2386 1.22727 17.4545 C1.22727 16.803 1.40341 16.2348 1.75568 15.75 C2.11174 15.2614 2.58902 14.8826 3.1875 14.6136 C3.78977 14.3409 4.46212 14.2045 5.20455 14.2045 C5.95455 14.2045 6.62121 14.339 7.20455 14.608 C7.78788 14.8731 8.25 15.2367 8.59091 15.6989 C8.93561 16.161 9.11742 16.6856 9.13636 17.2727 L7.77273 17.2727 Z M15.2259 17.2727 L15.2259 18.4091 L10.7031 18.4091 L10.7031 17.2727 L15.2259 17.2727 Z M12.0213 15.1818 L13.3622 15.1818 L13.3622 23.5 C13.3622 23.8788 13.4171 24.1629 13.527 24.3523 C13.6406 24.5379 13.7846 24.6629 13.9588 24.7273 C14.1368 24.7879 14.3243 24.8182 14.5213 24.8182 C14.669 24.8182 14.7902 24.8106 14.8849 24.7955 C14.9796 24.7765 15.0554 24.7614 15.1122 24.75 L15.3849 25.9545 C15.294 25.9886 15.1671 26.0227 15.0043 26.0568 C14.8414 26.0947 14.6349 26.1136 14.3849 26.1136 C14.0062 26.1136 13.6349 26.0322 13.2713 25.8693 C12.9115 25.7064 12.6122 25.4583 12.3736 25.125 C12.1387 24.7917 12.0213 24.3712 12.0213 23.8636 L12.0213 15.1818 Z M19.8111 26.2045 C19.258 26.2045 18.7562 26.1004 18.3054 25.892 C17.8546 25.6799 17.4967 25.375 17.2315 24.9773 C16.9664 24.5758 16.8338 24.0909 16.8338 23.5227 C16.8338 23.0227 16.9323 22.6174 17.1293 22.3068 C17.3262 21.9924 17.5895 21.7462 17.919 21.5682 C18.2486 21.3902 18.6122 21.2576 19.0099 21.1705 C19.4115 21.0795 19.8149 21.0076 20.2202 20.9545 C20.7505 20.8864 21.1804 20.8352 21.5099 20.8011 C21.8433 20.7633 22.0857 20.7008 22.2372 20.6136 C22.3925 20.5265 22.4702 20.375 22.4702 20.1591 L22.4702 20.1136 C22.4702 19.553 22.3168 19.1174 22.0099 18.8068 C21.7069 18.4962 21.2467 18.3409 20.6293 18.3409 C19.9891 18.3409 19.4872 18.4811 19.1236 18.7614 C18.7599 19.0417 18.5043 19.3409 18.3565 19.6591 L17.0838 19.2045 C17.3111 18.6742 17.6141 18.2614 17.9929 17.9659 C18.3755 17.6667 18.7921 17.4583 19.2429 17.3409 C19.6974 17.2197 20.1444 17.1591 20.5838 17.1591 C20.8641 17.1591 21.1861 17.1932 21.5497 17.2614 C21.9171 17.3258 22.2713 17.4602 22.6122 17.6648 C22.9569 17.8693 23.2429 18.178 23.4702 18.5909 C23.6974 19.0038 23.8111 19.5568 23.8111 20.25 L23.8111 26 L22.4702 26 L22.4702 24.8182 L22.402 24.8182 C22.3111 25.0076 22.1596 25.2102 21.9474 25.4261 C21.7353 25.642 21.4531 25.8258 21.1009 25.9773 C20.7486 26.1288 20.3187 26.2045 19.8111 26.2045 Z M20.0156 25 C20.5459 25 20.9929 24.8958 21.3565 24.6875 C21.724 24.4792 22.0005 24.2102 22.1861 23.8807 C22.3755 23.5511 22.4702 23.2045 22.4702 22.8409 L22.4702 21.6136 C22.4134 21.6818 22.2884 21.7443 22.0952 21.8011 C21.9058 21.8542 21.6861 21.9015 21.4361 21.9432 C21.1899 21.9811 20.9493 22.0152 20.7145 22.0455 C20.4834 22.072 20.2959 22.0947 20.152 22.1136 C19.8035 22.1591 19.4777 22.233 19.1747 22.3352 C18.8755 22.4337 18.633 22.5833 18.4474 22.7841 C18.2656 22.9811 18.1747 23.25 18.1747 23.5909 C18.1747 24.0568 18.3471 24.4091 18.6918 24.6477 C19.0402 24.8826 19.4815 25 20.0156 25 Z M30.054 17.2727 L30.054 18.4091 L25.5312 18.4091 L25.5312 17.2727 L30.054 17.2727 Z M26.8494 15.1818 L28.1903 15.1818 L28.1903 23.5 C28.1903 23.8788 28.2453 24.1629 28.3551 24.3523 C28.4688 24.5379 28.6127 24.6629 28.7869 24.7273 C28.965 24.7879 29.1525 24.8182 29.3494 24.8182 C29.4972 24.8182 29.6184 24.8106 29.7131 24.7955 C29.8078 24.7765 29.8835 24.7614 29.9403 24.75 L30.2131 25.9545 C30.1222 25.9886 29.9953 26.0227 29.8324 26.0568 C29.6695 26.0947 29.4631 26.1136 29.2131 26.1136 C28.8343 26.1136 28.4631 26.0322 28.0994 25.8693 C27.7396 25.7064 27.4403 25.4583 27.2017 25.125 C26.9669 24.7917 26.8494 24.3712 26.8494 23.8636 L26.8494 15.1818 Z M37.571 22.4318 L37.571 17.2727 L38.9119 17.2727 L38.9119 26 L37.571 26 L37.571 24.5227 L37.4801 24.5227 C37.2756 24.9659 36.9574 25.3428 36.5256 25.6534 C36.0938 25.9602 35.5483 26.1136 34.8892 26.1136 C34.3438 26.1136 33.8589 25.9943 33.4347 25.7557 C33.0104 25.5133 32.6771 25.1496 32.4347 24.6648 C32.1922 24.1761 32.071 23.5606 32.071 22.8182 L32.071 17.2727 L33.4119 17.2727 L33.4119 22.7273 C33.4119 23.3636 33.59 23.8712 33.946 24.25 C34.3059 24.6288 34.7642 24.8182 35.321 24.8182 C35.6544 24.8182 35.9934 24.733 36.3381 24.5625 C36.6866 24.392 36.9782 24.1307 37.2131 23.7784 C37.4517 23.4261 37.571 22.9773 37.571 22.4318 Z M47.5497 19.2273 L46.3452 19.5682 C46.2694 19.3674 46.1577 19.1723 46.0099 18.983 C45.866 18.7898 45.669 18.6307 45.419 18.5057 C45.169 18.3807 44.849 18.3182 44.4588 18.3182 C43.9247 18.3182 43.4796 18.4413 43.1236 18.6875 C42.7713 18.9299 42.5952 19.2386 42.5952 19.6136 C42.5952 19.947 42.7164 20.2102 42.9588 20.4034 C43.2012 20.5966 43.58 20.7576 44.0952 20.8864 L45.3906 21.2045 C46.1709 21.3939 46.7524 21.6837 47.1349 22.0739 C47.5175 22.4602 47.7088 22.9583 47.7088 23.5682 C47.7088 24.0682 47.5649 24.5152 47.277 24.9091 C46.9929 25.303 46.5952 25.6136 46.0838 25.8409 C45.5724 26.0682 44.9777 26.1818 44.2997 26.1818 C43.4096 26.1818 42.6728 25.9886 42.0895 25.6023 C41.5062 25.2159 41.1368 24.6515 40.9815 23.9091 L42.2543 23.5909 C42.3755 24.0606 42.6046 24.4129 42.9418 24.6477 C43.2827 24.8826 43.7277 25 44.277 25 C44.902 25 45.3982 24.8674 45.7656 24.6023 C46.1368 24.3333 46.3224 24.0114 46.3224 23.6364 C46.3224 23.3333 46.2164 23.0795 46.0043 22.875 C45.7921 22.6667 45.4664 22.5114 45.027 22.4091 L43.5724 22.0682 C42.7732 21.8788 42.1861 21.5852 41.8111 21.1875 C41.4399 20.786 41.2543 20.2841 41.2543 19.6818 C41.2543 19.1894 41.3925 18.7538 41.669 18.375 C41.9493 17.9962 42.33 17.6989 42.8111 17.483 C43.2959 17.267 43.8452 17.1591 44.4588 17.1591 C45.3224 17.1591 46.0005 17.3485 46.4929 17.7273 C46.9891 18.1061 47.3414 18.6061 47.5497 19.2273 Z M50.7045 26.0909 C50.4242 26.0909 50.1837 25.9905 49.983 25.7898 C49.7822 25.589 49.6818 25.3485 49.6818 25.0682 C49.6818 24.7879 49.7822 24.5473 49.983 24.3466 C50.1837 24.1458 50.4242 24.0455 50.7045 24.0455 C50.9848 24.0455 51.2254 24.1458 51.4261 24.3466 C51.6269 24.5473 51.7273 24.7879 51.7273 25.0682 C51.7273 25.2538 51.6799 25.4242 51.5852 25.5795 C51.4943 25.7348 51.3712 25.8598 51.2159 25.9545 C51.0644 26.0455 50.8939 26.0909 50.7045 26.0909 Z M50.7045 19.6136 C50.4242 19.6136 50.1837 19.5133 49.983 19.3125 C49.7822 19.1117 49.6818 18.8712 49.6818 18.5909 C49.6818 18.3106 49.7822 18.0701 49.983 17.8693 C50.1837 17.6686 50.4242 17.5682 50.7045 17.5682 C50.9848 17.5682 51.2254 17.6686 51.4261 17.8693 C51.6269 18.0701 51.7273 18.3106 51.7273 18.5909 C51.7273 18.7765 51.6799 18.947 51.5852 19.1023 C51.4943 19.2576 51.3712 19.3826 51.2159 19.4773 C51.0644 19.5682 50.8939 19.6136 50.7045 19.6136 Z"
+                  }
+                ],
+                "layoutGrow": 0,
+                "layoutAlign": "INHERIT",
+                "layoutPositioning": "AUTO",
+                "opacity": 1,
+                "blendMode": "PASS_THROUGH",
+                "isMask": false,
+                "maskType": "ALPHA",
+                "effects": [],
+                "characters": "Status:",
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "CENTER",
+                "textAutoResize": "NONE",
+                "textTruncation": "DISABLED",
+                "maxLines": null,
+                "hangingPunctuation": false,
+                "hangingList": false,
+                "listSpacing": 0,
+                "autoRename": false,
+                "fontName": {
+                  "family": "Inter",
+                  "style": "Regular"
+                },
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": {
+                  "value": 0,
+                  "unit": "PERCENT"
+                },
+                "lineHeight": {
+                  "unit": "AUTO"
+                },
+                "paragraphIndent": 0,
+                "paragraphSpacing": 0,
+                "textCase": "ORIGINAL",
+                "textDecoration": "NONE",
+                "textDecorationStyle": null,
+                "textDecorationOffset": null,
+                "textDecorationThickness": null,
+                "textDecorationColor": null,
+                "textDecorationSkipInk": null,
+                "hyperlink": null,
+                "openTypeFeatures": {},
+                "leadingTrim": "NONE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

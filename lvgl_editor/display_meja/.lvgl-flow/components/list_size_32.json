@@ -1,0 +1,418 @@
+{
+  "id": "17:1638",
+  "name": "Size=32",
+  "type": "COMPONENT",
+  "description": "",
+  "propertyDefinitions": {},
+  "componentSetId": "17:1633",
+  "isDefaultVariant": false,
+  "node": {
+    "id": "17:1638",
+    "name": "Size=32",
+    "type": "COMPONENT",
+    "visible": true,
+    "locked": false,
+    "width": 32,
+    "height": 32,
+    "x": 284,
+    "y": 20,
+    "rotation": 0,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "relativeTransform": [
+      [
+        1,
+        0,
+        284
+      ],
+      [
+        0,
+        1,
+        20
+      ]
+    ],
+    "absoluteTransform": [
+      [
+        1,
+        0,
+        964
+      ],
+      [
+        0,
+        1,
+        4088
+      ]
+    ],
+    "absoluteBoundingBox": {
+      "x": 964,
+      "y": 4088,
+      "width": 32,
+      "height": 32
+    },
+    "absoluteRenderBounds": {
+      "x": 964,
+      "y": 4088,
+      "width": 32,
+      "height": 32
+    },
+    "targetAspectRatio": null,
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeJoin": "MITER",
+    "strokeCap": "NONE",
+    "strokeMiterLimit": 4,
+    "dashPattern": [],
+    "fillGeometry": [
+      {
+        "windingRule": "NONZERO",
+        "data": "M0 0 L32 0 L32 32 L0 32 L0 0 Z"
+      }
+    ],
+    "cornerRadius": 0,
+    "cornerSmoothing": 0,
+    "layoutMode": "NONE",
+    "paddingLeft": 0,
+    "paddingRight": 0,
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "counterAxisAlignContent": "AUTO",
+    "itemSpacing": 0,
+    "counterAxisSpacing": 0,
+    "layoutWrap": "NO_WRAP",
+    "primaryAxisSizingMode": "AUTO",
+    "counterAxisSizingMode": "FIXED",
+    "itemReverseZIndex": false,
+    "strokesIncludedInLayout": false,
+    "clipsContent": true,
+    "inferredAutoLayout": {
+      "layoutMode": "HORIZONTAL",
+      "paddingLeft": 3.999999523162842,
+      "paddingRight": 4.000000476837158,
+      "paddingTop": 8,
+      "paddingBottom": 8,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER",
+      "primaryAxisSizingMode": "FIXED",
+      "counterAxisSizingMode": "FIXED",
+      "itemSpacing": 0
+    },
+    "layoutGrow": 0,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "maskType": "ALPHA",
+    "effects": [],
+    "variantProperties": {
+      "Size": "32"
+    },
+    "devStatus": null,
+    "children": [
+      {
+        "id": "17:1644",
+        "name": "Icon",
+        "type": "VECTOR",
+        "visible": true,
+        "locked": false,
+        "width": 24,
+        "height": 16,
+        "x": 4,
+        "y": 8,
+        "rotation": 0,
+        "minWidth": null,
+        "maxWidth": null,
+        "minHeight": null,
+        "maxHeight": null,
+        "layoutSizingHorizontal": "FIXED",
+        "layoutSizingVertical": "FIXED",
+        "relativeTransform": [
+          [
+            1,
+            0,
+            4
+          ],
+          [
+            0,
+            1,
+            8
+          ]
+        ],
+        "absoluteTransform": [
+          [
+            1,
+            0,
+            968
+          ],
+          [
+            0,
+            1,
+            4096
+          ]
+        ],
+        "absoluteBoundingBox": {
+          "x": 968,
+          "y": 4096,
+          "width": 24,
+          "height": 16
+        },
+        "absoluteRenderBounds": {
+          "x": 966.5,
+          "y": 4094.5,
+          "width": 27,
+          "height": 19
+        },
+        "targetAspectRatio": null,
+        "constraints": {
+          "horizontal": "SCALE",
+          "vertical": "SCALE"
+        },
+        "fills": [],
+        "strokes": [
+          {
+            "type": "SOLID",
+            "r": 0.11764705926179886,
+            "g": 0.11764705926179886,
+            "b": 0.11764705926179886,
+            "a": 1,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/4245:248"
+              }
+            }
+          }
+        ],
+        "strokeWeight": 3,
+        "strokeAlign": "CENTER",
+        "strokeJoin": "ROUND",
+        "strokeCap": "ROUND",
+        "strokeMiterLimit": 4,
+        "dashPattern": [],
+        "strokeGeometry": [
+          {
+            "windingRule": "NONZERO",
+            "data": "M6.66667 -1.5 C5.83824 -1.5 5.16667 -0.828427 5.16667 0 C5.16667 0.828427 5.83824 1.5 6.66667 1.5 L6.66667 0 L6.66667 -1.5 Z M24 1.5 C24.8284 1.5 25.5 0.828427 25.5 0 C25.5 -0.828427 24.8284 -1.5 24 -1.5 L24 0 L24 1.5 Z M6.66667 6.5 C5.83824 6.5 5.16667 7.17157 5.16667 8 C5.16667 8.82843 5.83824 9.5 6.66667 9.5 L6.66667 8 L6.66667 6.5 Z M24 9.5 C24.8284 9.5 25.5 8.82843 25.5 8 C25.5 7.17157 24.8284 6.5 24 6.5 L24 8 L24 9.5 Z M6.66667 14.5 C5.83824 14.5 5.16667 15.1716 5.16667 16 C5.16667 16.8284 5.83824 17.5 6.66667 17.5 L6.66667 16 L6.66667 14.5 Z M24 17.5 C24.8284 17.5 25.5 16.8284 25.5 16 C25.5 15.1716 24.8284 14.5 24 14.5 L24 16 L24 17.5 Z M0 -1.5 C-0.828427 -1.5 -1.5 -0.828427 -1.5 0 C-1.5 0.828427 -0.828427 1.5 0 1.5 L0 0 L0 -1.5 Z M0.0133333 1.5 C0.84176 1.5 1.51333 0.828427 1.51333 0 C1.51333 -0.828427 0.84176 -1.5 0.0133333 -1.5 L0.0133333 0 L0.0133333 1.5 Z M0 6.5 C-0.828427 6.5 -1.5 7.17157 -1.5 8 C-1.5 8.82843 -0.828427 9.5 0 9.5 L0 8 L0 6.5 Z M0.0133333 9.5 C0.84176 9.5 1.51333 8.82843 1.51333 8 C1.51333 7.17157 0.84176 6.5 0.0133333 6.5 L0.0133333 8 L0.0133333 9.5 Z M0 14.5 C-0.828427 14.5 -1.5 15.1716 -1.5 16 C-1.5 16.8284 -0.828427 17.5 0 17.5 L0 16 L0 14.5 Z M0.0133333 17.5 C0.84176 17.5 1.51333 16.8284 1.51333 16 C1.51333 15.1716 0.84176 14.5 0.0133333 14.5 L0.0133333 16 L0.0133333 17.5 Z M6.66667 0 L6.66667 1.5 L24 1.5 L24 0 L24 -1.5 L6.66667 -1.5 L6.66667 0 Z M6.66667 8 L6.66667 9.5 L24 9.5 L24 8 L24 6.5 L6.66667 6.5 L6.66667 8 Z M6.66667 16 L6.66667 17.5 L24 17.5 L24 16 L24 14.5 L6.66667 14.5 L6.66667 16 Z M0 0 L0 1.5 L0.0133333 1.5 L0.0133333 0 L0.0133333 -1.5 L0 -1.5 L0 0 Z M0 8 L0 9.5 L0.0133333 9.5 L0.0133333 8 L0.0133333 6.5 L0 6.5 L0 8 Z M0 16 L0 17.5 L0.0133333 17.5 L0.0133333 16 L0.0133333 14.5 L0 14.5 L0 16 Z"
+          }
+        ],
+        "cornerRadius": 0,
+        "cornerSmoothing": 0,
+        "layoutGrow": 0,
+        "layoutAlign": "INHERIT",
+        "layoutPositioning": "AUTO",
+        "opacity": 1,
+        "blendMode": "PASS_THROUGH",
+        "isMask": false,
+        "maskType": "ALPHA",
+        "effects": [],
+        "vectorPaths": [
+          {
+            "windingRule": "NONE",
+            "data": "M 6.666666507720947 0 L 24 0 M 6.666666507720947 8 L 24 8 M 6.666666507720947 16 L 24 16 M 0 0 L 0.013333320617675781 0 M 0 8 L 0.013333320617675781 8 M 0 16 L 0.013333320617675781 16"
+          }
+        ],
+        "vectorNetwork": {
+          "vertices": [
+            {
+              "x": 6.666666507720947,
+              "y": 0,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 24,
+              "y": 0,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 6.666666507720947,
+              "y": 8,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 24,
+              "y": 8,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 6.666666507720947,
+              "y": 16,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 24,
+              "y": 16,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 0.013333320617675781,
+              "y": 0,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 0,
+              "y": 8,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 0.013333320617675781,
+              "y": 8,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 0,
+              "y": 16,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            },
+            {
+              "x": 0.013333320617675781,
+              "y": 16,
+              "strokeCap": "ROUND",
+              "strokeJoin": "ROUND",
+              "cornerRadius": 0,
+              "handleMirroring": "NONE"
+            }
+          ],
+          "segments": [
+            {
+              "start": 0,
+              "end": 1,
+              "tangentStart": {
+                "x": 0,
+                "y": 0
+              },
+              "tangentEnd": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "tangentStart": {
+                "x": 0,
+                "y": 0
+              },
+              "tangentEnd": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "tangentStart": {
+                "x": 0,
+                "y": 0
+              },
+              "tangentEnd": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "tangentStart": {
+                "x": 0,
+                "y": 0
+              },
+              "tangentEnd": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "tangentStart": {
+                "x": 0,
+                "y": 0
+              },
+              "tangentEnd": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "tangentStart": {
+                "x": 0,
+                "y": 0
+              },
+              "tangentEnd": {
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "regions": []
+        },
+        "handleMirroring": "NONE",
+        "boundVariables": {
+          "strokes": [
+            {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:d2e9e262e437336d54e8e740f8af30755a666af2/4245:248"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "remote": true,
+  "key": "b921e341b111fb24f0ad55ed8474278722867d0d",
+  "publishStatus": "UNPUBLISHED"
+}

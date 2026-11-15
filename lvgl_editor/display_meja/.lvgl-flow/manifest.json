@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "exportedAt": "2026-11-15T08:10:23.572Z",
+  "files": {
+    ".lvgl-flow/components/check.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/plus.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list_size_48.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list_size_16.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list_size_20.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list_size_24.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list_size_32.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/list_size_40.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/home_b.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock_size_48.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock_size_16.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock_size_20.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock_size_24.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock_size_32.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/components/lock_size_40.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/check/check.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/plus/plus.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/screens/edit.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "screens/edit.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/base/container/container.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/base/image/image.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/base/panel/panel.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/base/card/card.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/base/label/label.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "components/base/spangroup/spangroup.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "globals.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/index.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/check_29517.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/plus_30659.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/size_48_171640.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/size_48_171655.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/home_171664.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_30_574.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_584.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_586.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_585.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_631.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_640.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_646.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_650.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_654.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_658.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_659.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_660.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_29_547.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_31_724.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_31_727.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_31_730.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_31_733.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_589.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_590.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_591.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_596.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_605.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_611.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_615.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_619.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_623.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_624.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/vec_32_625.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    "images/index_vectors.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    },
+    ".lvgl-flow/widget-names.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T08:10:23.572Z"
+    }
+  }
+}
