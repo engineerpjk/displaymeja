@@ -415,10 +415,28 @@ void setup() {
     lv_init();
     lv_tick_set_cb(my_tick_cb);
 
+    Serial.printf("[SYSTEM] Free Heap: %u bytes, Free PSRAM: %u bytes\n", ESP.getFreeHeap(), ESP.getFreePsram());
+
+    // Alokasikan memory pool tambahan 2MB dari PSRAM ke LVGL agar tidak kehabisan RAM
+    size_t psram_pool_size = 2 * 1024 * 1024;
+    void *psram_pool = heap_caps_malloc(psram_pool_size, MALLOC_CAP_SPIRAM);
+    if (psram_pool) {
+        lv_mem_add_pool(psram_pool, psram_pool_size);
+        Serial.printf("[LVGL] Berhasil menambahkan 2 MB PSRAM memory pool!\n");
+    } else {
+        Serial.println("[LVGL WARN] Gagal alokasi PSRAM memory pool!");
+    }
+
     disp = lv_display_create(800, 480);
+    lv_display_set_color_format(disp, LV_COLOR_FORMAT_RGB565);
     uint32_t buf_size = 800 * 80 * sizeof(lv_color_t);
     buf1 = (uint8_t *)heap_caps_malloc(buf_size, MALLOC_CAP_SPIRAM);
     buf2 = (uint8_t *)heap_caps_malloc(buf_size, MALLOC_CAP_SPIRAM);
+    if (!buf1) {
+        Serial.println("[LVGL WARN] Gagal alokasi PSRAM untuk buf1, mencoba internal RAM...");
+        buf_size = 800 * 20 * sizeof(lv_color_t);
+        buf1 = (uint8_t *)malloc(buf_size);
+    }
     lv_display_set_buffers(disp, buf1, buf2, buf_size, LV_DISPLAY_RENDER_MODE_PARTIAL);
     lv_display_set_flush_cb(disp, my_disp_flush);
 
