@@ -79,7 +79,7 @@ lv_obj_t * standby_create(void)
         lv_obj_set_width(label_0, 62);
         lv_obj_set_height(label_0, 16);
         lv_label_set_text(label_0, "Setup");
-        lv_obj_set_style_text_font(label_0, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(label_0, font_inter_reg_12b, 0);
         lv_obj_set_style_text_color(label_0, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_0, 118, 0);
         lv_obj_set_style_text_align(label_0, LV_TEXT_ALIGN_CENTER, 0);

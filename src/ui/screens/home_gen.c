@@ -354,7 +354,7 @@ lv_obj_t * home_create(void)
         lv_obj_set_width(lbl_cuaca, 149);
         lv_obj_set_height(lbl_cuaca, 16);
         lv_label_set_text(lbl_cuaca, "Cerah");
-        lv_obj_set_style_text_font(lbl_cuaca, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(lbl_cuaca, font_inter_reg_12b, 0);
         lv_obj_set_style_text_color(lbl_cuaca, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(lbl_cuaca, 118, 0);
         lv_obj_set_style_text_align(lbl_cuaca, LV_TEXT_ALIGN_CENTER, 0);
@@ -365,7 +365,7 @@ lv_obj_t * home_create(void)
         lv_obj_set_width(label_0, 149);
         lv_obj_set_height(label_0, 16);
         lv_label_set_text(label_0, "Temperature");
-        lv_obj_set_style_text_font(label_0, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(label_0, font_inter_reg_12b, 0);
         lv_obj_set_style_text_color(label_0, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_0, 118, 0);
         lv_obj_set_style_text_align(label_0, LV_TEXT_ALIGN_CENTER, 0);
@@ -387,7 +387,7 @@ lv_obj_t * home_create(void)
         lv_obj_set_width(label_1, 149);
         lv_obj_set_height(label_1, 16);
         lv_label_set_text(label_1, "Humidity");
-        lv_obj_set_style_text_font(label_1, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(label_1, font_inter_reg_12b, 0);
         lv_obj_set_style_text_color(label_1, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_1, 118, 0);
         lv_obj_set_style_text_align(label_1, LV_TEXT_ALIGN_CENTER, 0);
@@ -440,7 +440,7 @@ lv_obj_t * home_create(void)
         lv_obj_set_width(lbl_tanggal, 210);
         lv_obj_set_height(lbl_tanggal, 32);
         lv_label_set_text(lbl_tanggal, "Thursday, \n12 November 2026");
-        lv_obj_set_style_text_font(lbl_tanggal, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(lbl_tanggal, font_inter_reg_12b, 0);
         lv_obj_set_style_text_line_space(lbl_tanggal, 2, 0);
         lv_obj_set_style_text_color(lbl_tanggal, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(lbl_tanggal, 118, 0);

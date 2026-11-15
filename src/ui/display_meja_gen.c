@@ -225,11 +225,11 @@ void display_meja_init_gen(const char * asset_path)
 
     #if DISPLAY_MEJA_CHECK_COMPILE_TARGET(DISPLAY_MEJA_TARGET_ALL)
     if (display_meja_check_target(DISPLAY_MEJA_TARGET_ALL)) {
-        if (!font_inter_reg_12b.bin) {
-            /* font_inter_reg_12b.bin */
-            /* create bin font 'font_inter_reg_12b.bin' from file */
-            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_12a.bin");
-            font_inter_reg_12b.bin = lv_binfont_create(buf);
+        if (!font_inter_reg_12b) {
+            /* font_inter_reg_12b */
+            /* create bin font 'font_inter_reg_12b' from file */
+            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_12a");
+            font_inter_reg_12b = lv_binfont_create(buf);
 
         }
         if (!font_lato_bold_60) {
@@ -267,11 +267,11 @@ void display_meja_init_gen(const char * asset_path)
             font_lato_bold_16 = lv_binfont_create(buf);
 
         }
-        if (!font_inter_reg_9.bin) {
-            /* font_inter_reg_9.bin */
-            /* create bin font 'font_inter_reg_9.bin' from file */
-            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_9.bin");
-            font_inter_reg_9.bin = lv_binfont_create(buf);
+        if (!font_inter_reg_9) {
+            /* font_inter_reg_9 */
+            /* create bin font 'font_inter_reg_9' from file */
+            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_9");
+            font_inter_reg_9= lv_binfont_create(buf);
 
         }
         if (!font_lato_bold_36) {
@@ -295,11 +295,11 @@ void display_meja_init_gen(const char * asset_path)
             font_inter_bold_8 = lv_binfont_create(buf);
 
         }
-        if (!font_inter_reg_12a.bin) {
-            /* font_inter_reg_12a.bin */
-            /* create bin font 'font_inter_reg_12a.bin' from file */
-            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_12b.bin");
-            font_inter_reg_12a.bin = lv_binfont_create(buf);
+        if (!font_inter_reg_12a) {
+            /* font_inter_reg_12a */
+            /* create bin font 'font_inter_reg_12a' from file */
+            lv_snprintf(buf, 256, "%s%s", asset_path, "fonts/font_inter_reg_12b");
+            font_inter_reg_12a = lv_binfont_create(buf);
 
         }
         if (!font_inter_regular_8) {
@@ -608,17 +608,17 @@ void display_meja_init_gen(const char * asset_path)
 
     /* Check all fonts / default if needed. This prevents fonts that are used in one target but
        defined in another from causing assertion failures during rendering of the Preview. */
-    check_font(&font_inter_reg_12b.bin, "font_inter_reg_12b.bin");
+    check_font(&font_inter_reg_12b, "font_inter_reg_12b");
     check_font(&font_lato_bold_60, "font_lato_bold_60");
     check_font(&font_lato_semibold_36, "font_lato_semibold_36");
     check_font(&font_lato_semibold_18, "font_lato_semibold_18");
     check_font(&font_lato_regular_36, "font_lato_regular_36");
     check_font(&font_lato_bold_16, "font_lato_bold_16");
-    check_font(&font_inter_reg_9.bin, "font_inter_reg_9.bin");
+    check_font(&font_inter_reg_9, "font_inter_reg_9");
     check_font(&font_lato_bold_36, "font_lato_bold_36");
     check_font(&font_inter_semi_bold_12, "font_inter_semi_bold_12");
     check_font(&font_inter_bold_8, "font_inter_bold_8");
-    check_font(&font_inter_reg_12a.bin, "font_inter_reg_12a.bin");
+    check_font(&font_inter_reg_12a, "font_inter_reg_12a");
     check_font(&font_inter_regular_8, "font_inter_regular_8");
     check_font(&font_inter_semi_bold_30, "font_inter_semi_bold_30");
     check_font(&font_inter_regular_30, "font_inter_regular_30");
@@ -627,17 +627,17 @@ void display_meja_init_gen(const char * asset_path)
     check_font(&font_inter_italic_16, "font_inter_italic_16");
 
     /* Register fonts */
-    lv_xml_register_font(NULL, "font_inter_reg_12b.bin", font_inter_reg_12b.bin);
+    lv_xml_register_font(NULL, "font_inter_reg_12b", font_inter_reg_12b);
     lv_xml_register_font(NULL, "font_lato_bold_60", font_lato_bold_60);
     lv_xml_register_font(NULL, "font_lato_semibold_36", font_lato_semibold_36);
     lv_xml_register_font(NULL, "font_lato_semibold_18", font_lato_semibold_18);
     lv_xml_register_font(NULL, "font_lato_regular_36", font_lato_regular_36);
     lv_xml_register_font(NULL, "font_lato_bold_16", font_lato_bold_16);
-    lv_xml_register_font(NULL, "font_inter_reg_9.bin", font_inter_reg_9.bin);
+    lv_xml_register_font(NULL, "font_inter_reg_9", font_inter_reg_9);
     lv_xml_register_font(NULL, "font_lato_bold_36", font_lato_bold_36);
     lv_xml_register_font(NULL, "font_inter_semi_bold_12", font_inter_semi_bold_12);
     lv_xml_register_font(NULL, "font_inter_bold_8", font_inter_bold_8);
-    lv_xml_register_font(NULL, "font_inter_reg_12a.bin", font_inter_reg_12a.bin);
+    lv_xml_register_font(NULL, "font_inter_reg_12a", font_inter_reg_12a);
     lv_xml_register_font(NULL, "font_inter_regular_8", font_inter_regular_8);
     lv_xml_register_font(NULL, "font_inter_semi_bold_30", font_inter_semi_bold_30);
     lv_xml_register_font(NULL, "font_inter_regular_30", font_inter_regular_30);

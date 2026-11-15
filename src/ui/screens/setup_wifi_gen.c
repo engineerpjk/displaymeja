@@ -191,7 +191,7 @@ lv_obj_t * setup_wifi_create(void)
         lv_obj_set_width(label_4, 62);
         lv_obj_set_height(label_4, 16);
         lv_label_set_text(label_4, "Setup");
-        lv_obj_set_style_text_font(label_4, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(label_4, font_inter_reg_12b, 0);
         lv_obj_set_style_text_color(label_4, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_4, 118, 0);
         lv_obj_set_style_text_align(label_4, LV_TEXT_ALIGN_CENTER, 0);

@@ -71,7 +71,7 @@ lv_obj_t * edit_create(void)
         lv_obj_set_width(label_0, 62);
         lv_obj_set_height(label_0, 16);
         lv_label_set_text(label_0, "Simpan");
-        lv_obj_set_style_text_font(label_0, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(label_0, font_inter_regular_12_204611778259277, 0);
         lv_obj_set_style_text_color(label_0, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_0, 118, 0);
         lv_obj_set_style_text_align(label_0, LV_TEXT_ALIGN_CENTER, 0);
@@ -150,7 +150,7 @@ lv_obj_t * edit_create(void)
         lv_obj_set_width(label_1, 105);
         lv_obj_set_height(label_1, 16);
         lv_label_set_text(label_1, "Tambah");
-        lv_obj_set_style_text_font(label_1, font_inter_reg_12b.bin, 0);
+        lv_obj_set_style_text_font(label_1, font_inter_regular_12_204611778259277, 0);
         lv_obj_set_style_text_color(label_1, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_1, 118, 0);
         lv_obj_set_style_text_align(label_1, LV_TEXT_ALIGN_CENTER, 0);
@@ -464,7 +464,7 @@ lv_obj_t * edit_create(void)
         lv_obj_set_width(label_8, 60);
         lv_obj_set_height(label_8, 15);
         lv_label_set_text(label_8, "Tambah");
-        lv_obj_set_style_text_font(label_8, font_inter_reg_12a.bin, 0);
+        lv_obj_set_style_text_font(label_8, font_inter_regular_12_062697410583496, 0);
         lv_obj_set_style_text_color(label_8, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_8, 118, 0);
 
@@ -738,7 +738,7 @@ lv_obj_t * edit_create(void)
         lv_obj_set_width(label_15, 60);
         lv_obj_set_height(label_15, 15);
         lv_label_set_text(label_15, "Tambah");
-        lv_obj_set_style_text_font(label_15, font_inter_reg_12a.bin, 0);
+        lv_obj_set_style_text_font(label_15, font_inter_regular_12_062697410583496, 0);
         lv_obj_set_style_text_color(label_15, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_15, 118, 0);
 
@@ -1012,7 +1012,7 @@ lv_obj_t * edit_create(void)
         lv_obj_set_width(label_22, 60);
         lv_obj_set_height(label_22, 15);
         lv_label_set_text(label_22, "Tambah");
-        lv_obj_set_style_text_font(label_22, font_inter_reg_12a.bin, 0);
+        lv_obj_set_style_text_font(label_22, font_inter_regular_12_062697410583496, 0);
         lv_obj_set_style_text_color(label_22, lv_color_hex(0x000000), 0);
         lv_obj_set_style_text_opa(label_22, 118, 0);
 
