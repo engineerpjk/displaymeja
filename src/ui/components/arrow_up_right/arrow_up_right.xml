@@ -1,0 +1,6 @@
+<!-- This file is OWNED_BY=USER -->
+<!-- Change to OWNED_BY=USER to take ownership and prevent regeneration -->
+<!-- Source: Arrow up-right (31:876) -->
+<component>
+	<view extends="image" width="24" height="24" src="image_arrow_up_right_31877" scrollable="false" />
+</component>
